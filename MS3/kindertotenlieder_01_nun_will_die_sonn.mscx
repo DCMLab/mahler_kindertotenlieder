@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
   <programVersion>3.6.2</programVersion>
-  <programRevision></programRevision>
+  <programRevision/>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -140,6 +140,8 @@
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
     <metaTag name="arranger">Transcribed by pental from IMSLP #37187.  Source: https://imslp.org/wiki/Special:ReverseLookup/37187</metaTag>
+    <metaTag name="composed_end">1904</metaTag>
+    <metaTag name="composed_start">1901</metaTag>
     <metaTag name="composer">Gustav Mahler</metaTag>
     <metaTag name="copyright">OpenScore (CC0)</metaTag>
     <metaTag name="creationDate">2017-06-17</metaTag>
@@ -160,8 +162,9 @@
         </Staff>
       <trackName>Voice</trackName>
       <Instrument id="voice">
-        <longName>Gesang
-<i>Voice</i></longName>
+        <longName>
+          <i>Voice</i>
+          </longName>
         <trackName>Voice</trackName>
         <minPitchP>38</minPitchP>
         <maxPitchP>84</maxPitchP>
