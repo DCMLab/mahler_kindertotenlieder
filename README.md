@@ -1,5 +1,3 @@
-# annotation_workflow_template
+# Gustav Mahler - Kindertotenlieder
 
-This repo holds the current version of the DCML annotation workflow which is pulled by all subcorpus repos upon push to their main branch. 
-
-Please note that the `meta_ corpora` branch should be used with collections of corpora.
+Piano scores downloaded from the wonderful [OpenScore Lieder](https://musescore.com/user/27638568/sets/5051725) project.
