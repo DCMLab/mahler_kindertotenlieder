@@ -12113,10 +12113,6 @@ sehr ausdrucksvoll</text>
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V#64</name>
-            </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
             <durationType>eighth</durationType>
@@ -12257,7 +12253,7 @@ sehr ausdrucksvoll</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V#64</name>
+            <name>V64</name>
             </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
@@ -12363,7 +12359,7 @@ sehr ausdrucksvoll</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V#64</name>
+            <name>V64</name>
             </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
@@ -12830,7 +12826,7 @@ sehr ausdrucksvoll</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i4</name>
+            <name>i(4)</name>
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -13911,7 +13907,7 @@ sehr ausdrucksvoll</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V#64</name>
+            <name>V64</name>
             </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
@@ -15542,10 +15538,6 @@ sehr ausdrucksvoll</text>
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V#64</name>
-            </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
             <durationType>half</durationType>
@@ -16866,7 +16858,7 @@ sehr ausdrucksvoll</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V#64</name>
+            <name>V64</name>
             </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
@@ -16973,7 +16965,7 @@ sehr ausdrucksvoll</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V#64</name>
+            <name>V64</name>
             </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
@@ -17422,7 +17414,7 @@ sehr ausdrucksvoll</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i4</name>
+            <name>i(4)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -17573,10 +17565,6 @@ sehr ausdrucksvoll</text>
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V#64</name>
-            </Harmony>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
