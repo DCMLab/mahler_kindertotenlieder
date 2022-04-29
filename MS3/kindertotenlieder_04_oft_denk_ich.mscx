@@ -14282,7 +14282,7 @@ continuare il canto</text>
             </TimeSig>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7III</name>
+            <name>V7/III</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
