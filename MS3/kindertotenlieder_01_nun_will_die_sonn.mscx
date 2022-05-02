@@ -11907,7 +11907,7 @@ sehr ausdrucksvoll</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(4)</name>
+            <name>VI(^4)</name>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
@@ -11931,10 +11931,6 @@ sehr ausdrucksvoll</text>
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>VI(^4)</name>
-            </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>VI</name>
@@ -11989,6 +11985,8 @@ sehr ausdrucksvoll</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>ii%65</name>
+            <minDistance>0.315428</minDistance>
+            <offset x="-0.184572" y="3.50131"/>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
