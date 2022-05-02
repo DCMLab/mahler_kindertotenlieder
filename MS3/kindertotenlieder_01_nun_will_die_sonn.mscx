@@ -11762,7 +11762,7 @@ sehr ausdrucksvoll</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i64</name>
+            <name>V</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -11793,10 +11793,6 @@ sehr ausdrucksvoll</text>
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iv64</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
