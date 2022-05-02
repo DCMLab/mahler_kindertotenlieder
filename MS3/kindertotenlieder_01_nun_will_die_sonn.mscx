@@ -11823,10 +11823,6 @@ sehr ausdrucksvoll</text>
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V6</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
