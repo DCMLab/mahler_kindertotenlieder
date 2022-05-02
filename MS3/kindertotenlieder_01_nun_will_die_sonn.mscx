@@ -13133,6 +13133,13 @@ sehr ausdrucksvoll</text>
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/4</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i(+6)</name>
+            </Harmony>
           </voice>
         </Measure>
       <Measure>
