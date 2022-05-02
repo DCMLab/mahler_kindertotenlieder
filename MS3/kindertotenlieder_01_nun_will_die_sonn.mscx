@@ -11700,6 +11700,7 @@ sehr ausdrucksvoll</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>viio6/VII</name>
+            <offset x="-1.1" y="3.5"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -11714,7 +11715,7 @@ sehr ausdrucksvoll</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv6/iv</name>
+            <name>#viio2/iv</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -11726,6 +11727,10 @@ sehr ausdrucksvoll</text>
               <tpc>11</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv64</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -11735,7 +11740,7 @@ sehr ausdrucksvoll</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iio6/iv</name>
+            <name>iv6</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
