@@ -12742,7 +12742,7 @@ fliessend</text>
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Ger65/IV|EC</name>
+            <name>Fr65/IV|EC</name>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
@@ -12761,6 +12761,13 @@ fliessend</text>
               <tpc>9</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/2</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>Ger6/IV</name>
+            </Harmony>
           </voice>
         </Measure>
       <Measure>
