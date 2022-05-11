@@ -148,6 +148,7 @@
     <metaTag name="movementTitle">Nun seh’ ich wohl, warum so dunkle Flammen</metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
     <metaTag name="poet"></metaTag>
+    <metaTag name="reviewers">AN</metaTag>
     <metaTag name="source">http://musescore.com/user/27638568/scores/5051724</metaTag>
     <metaTag name="translator">English text by John Bernhoff</metaTag>
     <metaTag name="workNumber"></metaTag>
@@ -10598,7 +10599,7 @@ fliessend</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>c.Ger43/v{</name>
+            <name>c.Ger43(^2)/v{</name>
             </Harmony>
           <Chord>
             <offset x="1.5" y="0"/>
@@ -10623,6 +10624,13 @@ fliessend</text>
               <subtype>0</subtype>
               </Arpeggio>
             </Chord>
+          <location>
+            <fractions>-1/2</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>Ger43/v</name>
+            </Harmony>
           </voice>
         </Measure>
       <Measure>
@@ -10632,7 +10640,7 @@ fliessend</text>
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v[v(^9)</name>
+            <name>v[v(^2)</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
