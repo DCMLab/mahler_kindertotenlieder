@@ -15310,7 +15310,7 @@ fliessend</text>
             </TimeSig>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Ger6/iv|EC</name>
+            <name>Fr6/iv|EC</name>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
@@ -15333,6 +15333,13 @@ fliessend</text>
               <tpc>19</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/2</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>Ger6/iv</name>
+            </Harmony>
           </voice>
         </Measure>
       <Measure>
