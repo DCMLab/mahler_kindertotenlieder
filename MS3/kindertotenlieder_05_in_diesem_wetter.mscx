@@ -22012,7 +22012,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V42(+4)</name>
+            <name>V2(+4)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -22198,7 +22198,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Fr42/IV</name>
+            <name>Fr2/IV</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -23175,7 +23175,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%42</name>
+            <name>ii%2</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -24312,7 +24312,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio42</name>
+            <name>viio2</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -25772,7 +25772,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V42</name>
+            <name>V2</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -26390,7 +26390,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%42</name>
+            <name>ii%2</name>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
@@ -29742,7 +29742,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V42/V</name>
+            <name>V2/V</name>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
@@ -30789,7 +30789,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V42</name>
+            <name>V2</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -30820,7 +30820,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii42</name>
+            <name>ii2</name>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
