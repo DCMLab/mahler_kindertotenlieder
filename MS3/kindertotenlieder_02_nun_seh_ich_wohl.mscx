@@ -12133,7 +12133,7 @@ fliessend</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I.VI6</name>
+            <name>I.#vi64/vi</name>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
@@ -12167,7 +12167,7 @@ fliessend</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%7/#iv</name>
+            <name>ii7/vi</name>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
@@ -12216,7 +12216,7 @@ fliessend</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio43/vi</name>
+            <name>#viio43/vi</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
