@@ -223,6 +223,7 @@
     <metaTag name="mscVersion">3.02</metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
     <metaTag name="poet"></metaTag>
+    <metaTag name="reviewers">ST</metaTag>
     <metaTag name="source">https://musescore.com/user/27638568/scores/5052823</metaTag>
     <metaTag name="translator">John Bernhoff</metaTag>
     <metaTag name="workNumber"></metaTag>
@@ -273,6 +274,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="68"/>
           <synti>Fluid</synti>
