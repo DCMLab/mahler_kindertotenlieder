@@ -10992,12 +10992,8 @@ fliessend</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV6(2)/III</name>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
             <name>IV6/III]</name>
-            <offset x="6.01563" y="3.49525"/>
+            <offset x="-0.0812632" y="4.40978"/>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -11006,6 +11002,10 @@ fliessend</text>
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>IV6(#2)/III</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -11025,6 +11025,10 @@ fliessend</text>
               <tpc>19</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>IV6</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
