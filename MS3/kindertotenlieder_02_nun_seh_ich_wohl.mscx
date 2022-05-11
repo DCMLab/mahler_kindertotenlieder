@@ -13635,7 +13635,7 @@ fliessend</text>
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v.i6(^#7)</name>
+            <name>v.i6(#7)</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
