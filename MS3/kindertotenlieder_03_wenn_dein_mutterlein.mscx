@@ -132,7 +132,7 @@
       <user3FrameWidth>0</user3FrameWidth>
       <Spatium>1.5</Spatium>
       </Style>
-    <showInvisible>1</showInvisible>
+    <showInvisible>0</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
@@ -13701,7 +13701,7 @@ con tenerezza</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V64</name>
+            <name>V(64)</name>
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -14519,7 +14519,7 @@ con tenerezza</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V64</name>
+            <name>V(64)</name>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
@@ -15550,7 +15550,7 @@ con tenerezza</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V64</name>
+            <name>V(64)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -15590,7 +15590,7 @@ con tenerezza</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V64</name>
+            <name>V(64)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -15628,10 +15628,6 @@ con tenerezza</text>
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -15667,7 +15663,7 @@ con tenerezza</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V64</name>
+            <name>V(64)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -16607,7 +16603,7 @@ con tenerezza</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V64</name>
+            <name>V(64)</name>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
@@ -17573,7 +17569,7 @@ con tenerezza</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V64</name>
+            <name>V(64)</name>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
