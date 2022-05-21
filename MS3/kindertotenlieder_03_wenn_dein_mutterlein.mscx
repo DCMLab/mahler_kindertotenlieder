@@ -149,6 +149,7 @@
     <metaTag name="movementTitle">Wenn dein Mütterlein</metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
     <metaTag name="poet"></metaTag>
+    <metaTag name="reviewers">AN</metaTag>
     <metaTag name="source">http://musescore.com/user/27638568/scores/5052787</metaTag>
     <metaTag name="translator">English text by John Bernhoff</metaTag>
     <metaTag name="workNumber"></metaTag>
@@ -14088,7 +14089,7 @@ con tenerezza</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio/VI</name>
+            <name>viio7/VI</name>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
