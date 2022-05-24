@@ -11860,10 +11860,6 @@ continuare il canto</text>
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I64</name>
-            </Harmony>
           <Chord>
             <durationType>whole</durationType>
             <Note>
@@ -11878,6 +11874,13 @@ continuare il canto</text>
               <tpc>12</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/2</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I64</name>
+            </Harmony>
           </voice>
         </Measure>
       <Measure>
