@@ -11526,7 +11526,7 @@ continuare il canto</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/III</name>
+            <name>V7/bIII</name>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
@@ -11544,7 +11544,7 @@ continuare il canto</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III|IAC}</name>
+            <name>bIII|IAC}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
