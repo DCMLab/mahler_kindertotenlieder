@@ -10113,6 +10113,10 @@ continuare il canto</text>
               <Node pos="28" action="512"/>
               </Groups>
             </TimeSig>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>Eb.I{</name>
+            </Harmony>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
@@ -10156,10 +10160,6 @@ continuare il canto</text>
             </Chord>
           </voice>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
