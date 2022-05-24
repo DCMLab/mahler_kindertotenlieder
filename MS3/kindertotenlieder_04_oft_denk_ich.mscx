@@ -12762,7 +12762,7 @@ continuare il canto</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv/III</name>
+            <name>iv/bIII</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -12847,7 +12847,7 @@ continuare il canto</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(b9)</name>
+            <name>V7(b9)/bIII</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -13285,10 +13285,6 @@ continuare il canto</text>
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I64</name>
-            </Harmony>
           <Chord>
             <durationType>whole</durationType>
             <Note>
@@ -13332,6 +13328,13 @@ continuare il canto</text>
               <tpc>11</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/2</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I64</name>
+            </Harmony>
           </voice>
         </Measure>
       <Measure>
