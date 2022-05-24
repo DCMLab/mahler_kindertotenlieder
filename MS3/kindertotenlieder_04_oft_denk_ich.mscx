@@ -12582,7 +12582,7 @@ continuare il canto</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/III</name>
+            <name>V/bIII</name>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
@@ -12600,7 +12600,7 @@ continuare il canto</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III|IAC}{</name>
+            <name>bIII|IAC}{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
