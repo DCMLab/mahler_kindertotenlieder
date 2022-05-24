@@ -14289,7 +14289,7 @@ continuare il canto</text>
             </TimeSig>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/III</name>
+            <name>V7/bIII</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -14414,7 +14414,7 @@ continuare il canto</text>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III|IAC}{</name>
+            <name>bIII|IAC}{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -14571,7 +14571,7 @@ continuare il canto</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv/III</name>
+            <name>iv/bIII</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -14596,7 +14596,7 @@ continuare il canto</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(b9)</name>
+            <name>V7(b9)/bIII</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
