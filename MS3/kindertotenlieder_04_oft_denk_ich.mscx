@@ -12124,7 +12124,7 @@ continuare il canto</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(^11)</name>
+            <name>V7(#11)</name>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
