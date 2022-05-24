@@ -14974,10 +14974,6 @@ continuare il canto</text>
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I64</name>
-            </Harmony>
           <Chord>
             <durationType>whole</durationType>
             <Note>
@@ -15003,6 +14999,16 @@ continuare il canto</text>
               <tpc>11</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/2</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I64</name>
+            </Harmony>
+          <location>
+            <fractions>1/2</fractions>
+            </location>
           <Clef>
             <concertClefType>G</concertClefType>
             <transposingClefType>G</transposingClefType>
