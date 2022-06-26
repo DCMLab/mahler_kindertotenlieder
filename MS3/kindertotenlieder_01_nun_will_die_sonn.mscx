@@ -14764,12 +14764,7 @@ sehr ausdrucksvoll</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i(^4)</name>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            <offset x="5.05208" y="4.26616"/>
+            <name>iv</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
