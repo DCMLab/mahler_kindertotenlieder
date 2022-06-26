@@ -14859,15 +14859,11 @@ sehr ausdrucksvoll</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6/iv/iv</name>
+            <name>ii/VI</name>
             </Harmony>
           <Rest>
             <durationType>half</durationType>
             </Rest>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iv/iv</name>
-            </Harmony>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
@@ -14879,7 +14875,7 @@ sehr ausdrucksvoll</text>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>viio/VI</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
