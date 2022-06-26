@@ -3153,16 +3153,19 @@ nicht schleppend</text>
             <followText>1</followText>
             <visible>0</visible>
             <size>10</size>
+            <offset x="-2.07643" y="-1.16943"/>
             <text><sym>metNoteQuarterUp</sym> = 66.9</text>
             </Tempo>
           <location>
             <fractions>1/8</fractions>
             </location>
           <Tempo>
-            <tempo>1.1116699999999999</tempo>
+            <tempo>1.1116666666666668</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <minDistance>0.28697</minDistance>
             <size>10</size>
+            <offset x="0.461429" y="-0.569569"/>
             <text><sym>metNoteQuarterUp</sym> = 66.7</text>
             </Tempo>
           </voice>
@@ -15781,7 +15784,7 @@ sehr ausdrucksvoll</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6/iv</name>
+            <name>V/iv</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -15821,7 +15824,7 @@ sehr ausdrucksvoll</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv6</name>
+            <name>iv</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -16074,7 +16077,7 @@ sehr ausdrucksvoll</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(4)</name>
+            <name>I</name>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -16108,10 +16111,6 @@ sehr ausdrucksvoll</text>
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -16345,6 +16344,13 @@ sehr ausdrucksvoll</text>
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/4</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i(^2)</name>
+            </Harmony>
           </voice>
         </Measure>
       <Measure>
