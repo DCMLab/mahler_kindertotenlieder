@@ -16672,7 +16672,7 @@ sehr ausdrucksvoll</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv64(4)</name>
+            <name>ii%2</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -16692,7 +16692,7 @@ sehr ausdrucksvoll</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv</name>
+            <name>ii%65</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
