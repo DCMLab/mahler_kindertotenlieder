@@ -11661,6 +11661,7 @@ sehr ausdrucksvoll</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>d.VII{</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
@@ -11671,7 +11672,13 @@ sehr ausdrucksvoll</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>d.i6{</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>#viio2/v</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -11692,6 +11699,7 @@ sehr ausdrucksvoll</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>v64</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -11702,7 +11710,13 @@ sehr ausdrucksvoll</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>i</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>viio6/VII</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="-1.1" y="3.5"/>
             </Harmony>
           <Chord>
@@ -11718,7 +11732,13 @@ sehr ausdrucksvoll</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>iv6/iv</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>#viio2/iv</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -11733,6 +11753,7 @@ sehr ausdrucksvoll</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iv64</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -11743,7 +11764,13 @@ sehr ausdrucksvoll</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>iio6/iv</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>iv6</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -11765,7 +11792,13 @@ sehr ausdrucksvoll</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>i64</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -11796,6 +11829,11 @@ sehr ausdrucksvoll</text>
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv64</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -11826,6 +11864,11 @@ sehr ausdrucksvoll</text>
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V6</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -11852,7 +11895,13 @@ sehr ausdrucksvoll</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>VI6</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>i(6)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -11873,6 +11922,7 @@ sehr ausdrucksvoll</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
@@ -11883,7 +11933,13 @@ sehr ausdrucksvoll</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>iv64</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>i(4)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -11896,6 +11952,7 @@ sehr ausdrucksvoll</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
@@ -11906,7 +11963,13 @@ sehr ausdrucksvoll</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V(4)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>VI(^4)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
@@ -11930,6 +11993,11 @@ sehr ausdrucksvoll</text>
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>VI(^4)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>VI</name>
@@ -12079,7 +12147,13 @@ sehr ausdrucksvoll</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V64</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V[i</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
@@ -12131,6 +12205,7 @@ sehr ausdrucksvoll</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
@@ -12176,6 +12251,7 @@ sehr ausdrucksvoll</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7(#6#4)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
@@ -12276,7 +12352,13 @@ sehr ausdrucksvoll</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V64</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V7(^8#6)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
@@ -12343,6 +12425,11 @@ sehr ausdrucksvoll</text>
               <tpc>21</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V7</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -12378,7 +12465,13 @@ sehr ausdrucksvoll</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V64</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V(64)/I</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
@@ -12426,7 +12519,13 @@ sehr ausdrucksvoll</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V7(b9)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V7/I]</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -12435,6 +12534,11 @@ sehr ausdrucksvoll</text>
               <tpc>12</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V7</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -12548,7 +12652,13 @@ sehr ausdrucksvoll</text>
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>I|PAC}{</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>I|PAC}</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="-0.328869" y="7.31033"/>
             </Harmony>
           <Chord>
@@ -12570,6 +12680,7 @@ sehr ausdrucksvoll</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>{</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -12764,6 +12875,11 @@ sehr ausdrucksvoll</text>
             </Chord>
           </voice>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V7(9)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -12911,6 +13027,11 @@ sehr ausdrucksvoll</text>
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V7(9^4)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -12922,6 +13043,11 @@ sehr ausdrucksvoll</text>
               <tpc>12</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V(#7#9)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -12950,7 +13076,13 @@ sehr ausdrucksvoll</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V64</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V[i6</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
@@ -12965,6 +13097,7 @@ sehr ausdrucksvoll</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iv</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
@@ -12972,6 +13105,7 @@ sehr ausdrucksvoll</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V6/V]</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           </voice>
         </Measure>
@@ -13153,6 +13287,7 @@ sehr ausdrucksvoll</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i(+6)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           </voice>
         </Measure>
@@ -13160,7 +13295,18 @@ sehr ausdrucksvoll</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>ii6/iv</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv6/iv</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>#viio2/iv</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -13172,6 +13318,7 @@ sehr ausdrucksvoll</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iv64</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
@@ -13179,6 +13326,7 @@ sehr ausdrucksvoll</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iv6</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
@@ -13193,7 +13341,13 @@ sehr ausdrucksvoll</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V42</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>i6(4)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -13218,11 +13372,23 @@ sehr ausdrucksvoll</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>i</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>VI64</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>i6</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>bII(2)</name>
+            <color r="0" g="85" b="0" a="255"/>
             <minDistance>-0.0758163</minDistance>
             <offset x="3.99261" y="4.89503"/>
             </Harmony>
@@ -13235,7 +13401,13 @@ sehr ausdrucksvoll</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>ii%64/iv</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>bII</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -13263,7 +13435,13 @@ sehr ausdrucksvoll</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V42/VI</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>i(b2)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -13282,6 +13460,11 @@ sehr ausdrucksvoll</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>iv64</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>i</name>
             </Harmony>
           <Chord>
@@ -13291,6 +13474,11 @@ sehr ausdrucksvoll</text>
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V6</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -13323,6 +13511,7 @@ sehr ausdrucksvoll</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i(6)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -13363,6 +13552,7 @@ sehr ausdrucksvoll</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           </voice>
         </Measure>
@@ -13374,6 +13564,7 @@ sehr ausdrucksvoll</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i(4)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -13414,6 +13605,7 @@ sehr ausdrucksvoll</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           </voice>
         </Measure>
@@ -13421,7 +13613,13 @@ sehr ausdrucksvoll</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V(4)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>ii%43</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
@@ -13442,6 +13640,11 @@ sehr ausdrucksvoll</text>
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>VI(^4)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -13542,7 +13745,13 @@ sehr ausdrucksvoll</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>VI(^4)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>ii%43</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -13554,6 +13763,16 @@ sehr ausdrucksvoll</text>
               <tpc>12</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V(4)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i64</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -13589,7 +13808,13 @@ sehr ausdrucksvoll</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>i65(^2)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>ii%7(6)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -13605,10 +13830,16 @@ sehr ausdrucksvoll</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>ii%7</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
             </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i65</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -13618,7 +13849,13 @@ sehr ausdrucksvoll</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V64(4)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>ii%7(4)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -13637,7 +13874,13 @@ sehr ausdrucksvoll</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V7(4)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>i64</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -13670,7 +13913,13 @@ sehr ausdrucksvoll</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>i42(+9)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>ii%43(6)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -13685,6 +13934,7 @@ sehr ausdrucksvoll</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>ii%43</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -13702,7 +13952,13 @@ sehr ausdrucksvoll</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V(4)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>ii%(4)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -13713,7 +13969,13 @@ sehr ausdrucksvoll</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>ii65</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>ii%(65)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -13722,6 +13984,11 @@ sehr ausdrucksvoll</text>
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V65/V</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -13853,6 +14120,7 @@ sehr ausdrucksvoll</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7(#6#4)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
@@ -13955,7 +14223,13 @@ sehr ausdrucksvoll</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V64</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V7(^8#6)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
@@ -14020,6 +14294,11 @@ sehr ausdrucksvoll</text>
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V7</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -14058,7 +14337,13 @@ sehr ausdrucksvoll</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>I(4)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>I64</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
@@ -14086,6 +14371,11 @@ sehr ausdrucksvoll</text>
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I64</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
@@ -14104,7 +14394,13 @@ sehr ausdrucksvoll</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V7(b9)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V7</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -14116,6 +14412,11 @@ sehr ausdrucksvoll</text>
               <tpc>12</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V7</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -14292,7 +14593,13 @@ sehr ausdrucksvoll</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>I</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>I(94)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -14340,6 +14647,7 @@ sehr ausdrucksvoll</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I+</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           </voice>
         <voice>
@@ -14516,6 +14824,11 @@ sehr ausdrucksvoll</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V42</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>down</StemDirection>
@@ -14566,6 +14879,21 @@ sehr ausdrucksvoll</text>
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>IV(4)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv6/iv</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>IV</name>
@@ -14632,12 +14960,14 @@ sehr ausdrucksvoll</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iv</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           </voice>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
@@ -14645,6 +14975,7 @@ sehr ausdrucksvoll</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iv/iv</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           </voice>
         </Measure>
@@ -14778,7 +15109,18 @@ sehr ausdrucksvoll</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>i(^4)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>iv</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -14858,7 +15200,13 @@ sehr ausdrucksvoll</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>viio6/V</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>#viio65/v</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
@@ -14873,11 +15221,22 @@ sehr ausdrucksvoll</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V6/iv/iv</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>ii/VI</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
             <durationType>half</durationType>
             </Rest>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv/iv</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
@@ -14889,7 +15248,13 @@ sehr ausdrucksvoll</text>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>viio/VI</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -14941,6 +15306,7 @@ sehr ausdrucksvoll</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i43</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="-0.164435" y="7.1245"/>
             </Harmony>
           <Chord>
@@ -14983,6 +15349,7 @@ sehr ausdrucksvoll</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i6</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -15004,7 +15371,13 @@ sehr ausdrucksvoll</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>ii65</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>ii%7</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -15045,7 +15418,13 @@ sehr ausdrucksvoll</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>ii%65</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>ii%7</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
@@ -15075,6 +15454,7 @@ sehr ausdrucksvoll</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i64</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           </voice>
         </Measure>
@@ -15083,6 +15463,7 @@ sehr ausdrucksvoll</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>ii%7</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -15094,6 +15475,7 @@ sehr ausdrucksvoll</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i64</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           </voice>
         </Measure>
@@ -15102,6 +15484,7 @@ sehr ausdrucksvoll</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>ii%43</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
@@ -15120,6 +15503,7 @@ sehr ausdrucksvoll</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i6(+6)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           </voice>
         </Measure>
@@ -15128,6 +15512,7 @@ sehr ausdrucksvoll</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>ii%7(6)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -15139,6 +15524,7 @@ sehr ausdrucksvoll</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>ii%7</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
@@ -15146,6 +15532,7 @@ sehr ausdrucksvoll</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>ii%65(4)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
@@ -15153,6 +15540,7 @@ sehr ausdrucksvoll</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i64</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           </voice>
         </Measure>
@@ -15161,6 +15549,7 @@ sehr ausdrucksvoll</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>ii%43</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
@@ -15455,7 +15844,13 @@ sehr ausdrucksvoll</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V7(^4)/IV</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V7(9)/iv</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -15584,7 +15979,13 @@ sehr ausdrucksvoll</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V64(b9)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V(6b5)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -15623,7 +16024,13 @@ sehr ausdrucksvoll</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V64</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V(64)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -15642,6 +16049,7 @@ sehr ausdrucksvoll</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V(#64)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
@@ -15681,7 +16089,13 @@ sehr ausdrucksvoll</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>ii%7/iv</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V7(+9b5)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
@@ -15795,7 +16209,13 @@ sehr ausdrucksvoll</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V6/iv</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V/iv</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -15835,7 +16255,13 @@ sehr ausdrucksvoll</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>iv6</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>iv</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -16088,7 +16514,13 @@ sehr ausdrucksvoll</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>I(4)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>I</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -16122,6 +16554,11 @@ sehr ausdrucksvoll</text>
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -16361,6 +16798,7 @@ sehr ausdrucksvoll</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i(^2)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           </voice>
         </Measure>
@@ -16368,7 +16806,13 @@ sehr ausdrucksvoll</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>viio6/V</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>#viio7/v</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -16396,11 +16840,23 @@ sehr ausdrucksvoll</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>viio6/iv</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv6]</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>#viio7/iv</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iv]</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="12.0083" y="3.36256"/>
             </Harmony>
           <Chord>
@@ -16414,6 +16870,11 @@ sehr ausdrucksvoll</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>ii%64/IV</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i6(4)</name>
@@ -16434,6 +16895,7 @@ sehr ausdrucksvoll</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>bII(2)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
@@ -16441,6 +16903,7 @@ sehr ausdrucksvoll</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>bII</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           </voice>
         </Measure>
@@ -16448,7 +16911,18 @@ sehr ausdrucksvoll</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>i(b94)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V6</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>i(b2)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -16464,6 +16938,11 @@ sehr ausdrucksvoll</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -16477,6 +16956,7 @@ sehr ausdrucksvoll</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i(6)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
@@ -16487,6 +16967,7 @@ sehr ausdrucksvoll</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -16538,6 +17019,7 @@ sehr ausdrucksvoll</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i(4)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
@@ -16548,6 +17030,7 @@ sehr ausdrucksvoll</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -16683,7 +17166,13 @@ sehr ausdrucksvoll</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>iv64(4)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>ii%2</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -16703,7 +17192,13 @@ sehr ausdrucksvoll</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>iv</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>ii%65</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -16786,6 +17281,7 @@ sehr ausdrucksvoll</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V[i</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
@@ -16837,6 +17333,7 @@ sehr ausdrucksvoll</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
@@ -16877,6 +17374,11 @@ sehr ausdrucksvoll</text>
             </Chord>
           </voice>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V64</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Chord>
             <durationType>whole</durationType>
             <Note>
@@ -16895,6 +17397,7 @@ sehr ausdrucksvoll</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7(#6#4)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
@@ -16998,7 +17501,13 @@ sehr ausdrucksvoll</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V64</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V7(^8#6)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
@@ -17062,6 +17571,11 @@ sehr ausdrucksvoll</text>
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V7</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -17101,7 +17615,13 @@ sehr ausdrucksvoll</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V64</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V(64)/I</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
@@ -17152,7 +17672,13 @@ sehr ausdrucksvoll</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V7(b9)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V7/I]</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <Fragment>
@@ -17167,6 +17693,11 @@ sehr ausdrucksvoll</text>
               <tpc>12</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V7</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -17259,7 +17790,13 @@ sehr ausdrucksvoll</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>I|PAC}{</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>I|PAC}</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -17311,6 +17848,7 @@ sehr ausdrucksvoll</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>{</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
             <offset x="0" y="-1.55886"/>
@@ -17469,6 +18007,11 @@ sehr ausdrucksvoll</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V7(9)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -17552,6 +18095,7 @@ sehr ausdrucksvoll</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i</name>
+            <color r="0" g="85" b="0" a="255"/>
             <minDistance>0.351902</minDistance>
             <offset x="6.5069" y="5.20817"/>
             </Harmony>
@@ -17591,6 +18135,11 @@ sehr ausdrucksvoll</text>
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
             <durationType>eighth</durationType>
@@ -17673,7 +18222,13 @@ sehr ausdrucksvoll</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V64</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V[i6</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -17701,6 +18256,7 @@ sehr ausdrucksvoll</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V6/iv</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -17736,7 +18292,13 @@ sehr ausdrucksvoll</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V7(9^4)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>iio6</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -17754,7 +18316,13 @@ sehr ausdrucksvoll</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V(#7#9)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V6/V]</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
