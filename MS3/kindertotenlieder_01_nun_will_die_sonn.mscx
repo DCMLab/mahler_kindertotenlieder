@@ -16357,7 +16357,7 @@ sehr ausdrucksvoll</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio6/V</name>
+            <name>#viio7/v</name>
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -16385,11 +16385,11 @@ sehr ausdrucksvoll</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio6/iv</name>
+            <name>#viio7/iv</name>
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv6]</name>
+            <name>iv]</name>
             <offset x="12.0083" y="3.36256"/>
             </Harmony>
           <Chord>
@@ -16412,33 +16412,37 @@ sehr ausdrucksvoll</text>
             <name>i6</name>
             <offset x="6.29704" y="3.24748"/>
             </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>ii%64/IV</name>
-            <offset x="17.4267" y="3.39392"/>
-            </Harmony>
           <Rest>
             <visible>0</visible>
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
+          <location>
+            <fractions>-1/2</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>bII(2)</name>
+            </Harmony>
+          <location>
+            <fractions>1/4</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>bII</name>
+            </Harmony>
           </voice>
         </Measure>
       <Measure>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i(b94)</name>
+            <name>i(b2)</name>
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i</name>
             <offset x="5.52677" y="2.92298"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V6</name>
-            <offset x="15.969" y="3.86101"/>
             </Harmony>
           <Rest>
             <visible>0</visible>
