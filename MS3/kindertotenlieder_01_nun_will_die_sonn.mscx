@@ -14320,6 +14320,13 @@ sehr ausdrucksvoll</text>
               <tpc>20</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-3/4</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I+</name>
+            </Harmony>
           </voice>
         <voice>
           <Rest>
