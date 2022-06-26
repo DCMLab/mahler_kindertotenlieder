@@ -13179,14 +13179,14 @@ sehr ausdrucksvoll</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2</name>
+            <name>i6(4)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <offset x="0" y="0.155886"/>
+                  <offset x="-0.41435" y="0.155886"/>
                   </SlurSegment>
                 <up>down</up>
                 </Slur>
@@ -13208,7 +13208,7 @@ sehr ausdrucksvoll</text>
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI64</name>
+            <name>bII(2)</name>
             <minDistance>-0.0758163</minDistance>
             <offset x="3.99261" y="4.89503"/>
             </Harmony>
@@ -13221,7 +13221,7 @@ sehr ausdrucksvoll</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%64/iv</name>
+            <name>bII</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -13249,7 +13249,7 @@ sehr ausdrucksvoll</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V42/VI</name>
+            <name>i(b2)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -13268,12 +13268,7 @@ sehr ausdrucksvoll</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv64</name>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
             <name>i</name>
-            <offset x="5.20776" y="6.05193"/>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -13282,10 +13277,6 @@ sehr ausdrucksvoll</text>
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V6</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -13314,9 +13305,6 @@ sehr ausdrucksvoll</text>
         <voice>
           <Rest>
             <durationType>quarter</durationType>
-            <Lyrics>
-              <text>i</text>
-              </Lyrics>
             </Rest>
           <Chord>
             <durationType>quarter</durationType>
