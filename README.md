@@ -9,4 +9,4 @@ Piano scores downloaded from the wonderful [OpenScore Lieder](https://musescore.
 |kindertotenlieder_02_nun_seh_ich_wohl    |      74|     0|        |           |         |
 |kindertotenlieder_03_wenn_dein_mutterlein|      70|   118|2.3.0   |Amelia Brey|AN       |
 |kindertotenlieder_04_oft_denk_ich        |      71|    53|2.3.0   |Amelia Brey|AN       |
-|kindertotenlieder_05_in_diesem_wetter    |     139|     0|        |           |         |
+|kindertotenlieder_05_in_diesem_wetter    |     139|   149|2.3.0   |Amelia Brey|ST       |
