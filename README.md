@@ -10,3 +10,6 @@ Piano scores downloaded from the wonderful [OpenScore Lieder](https://musescore.
 |kindertotenlieder_03_wenn_dein_mutterlein|      70|   118|2.3.0   |Amelia Brey|AN       |
 |kindertotenlieder_04_oft_denk_ich        |      71|    53|2.3.0   |Amelia Brey|AN       |
 |kindertotenlieder_05_in_diesem_wetter    |     139|   149|2.3.0   |Amelia Brey|ST       |
+
+
+*Overview table updated using [ms3](https://johentsch.github.io/ms3/) 1.2.2.*
