@@ -2,7 +2,7 @@
 
 Piano scores downloaded from the wonderful [OpenScore Lieder](https://musescore.com/user/27638568/sets/5051725) project.
 
-# Overview
+## Overview
 |                file_name                |measures|labels|standard|annotators |reviewers|
 |-----------------------------------------|-------:|-----:|--------|-----------|---------|
 |kindertotenlieder_01_nun_will_die_sonn   |      84|   179|2.3.0   |Amelia Brey|DK       |
@@ -12,4 +12,4 @@ Piano scores downloaded from the wonderful [OpenScore Lieder](https://musescore.
 |kindertotenlieder_05_in_diesem_wetter    |     139|   149|2.3.0   |Amelia Brey|ST       |
 
 
-*Overview table updated using [ms3](https://johentsch.github.io/ms3/) 1.2.2.*
+*Overview table automatically updated using [ms3](https://johentsch.github.io/ms3/).*
