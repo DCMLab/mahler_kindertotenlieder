@@ -230,9 +230,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Rest>
             <durationType>measure</durationType>
@@ -265,9 +262,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Rest>
             <durationType>measure</durationType>
@@ -469,9 +463,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>page</subtype>
-          </LayoutBreak>
         <voice>
           <Rest>
             <durationType>measure</durationType>
@@ -642,9 +633,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Chord>
             <durationType>half</durationType>
@@ -792,9 +780,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Chord>
             <durationType>quarter</durationType>
@@ -1003,9 +988,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Chord>
             <durationType>half</durationType>
@@ -1410,9 +1392,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>page</subtype>
-          </LayoutBreak>
         <voice>
           <Tempo>
             <tempo>1.2833300000000001</tempo>
@@ -1790,9 +1769,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Chord>
             <durationType>quarter</durationType>
@@ -2280,9 +2256,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Rest>
             <durationType>measure</durationType>
@@ -2323,9 +2296,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Rest>
             <durationType>measure</durationType>
@@ -2527,9 +2497,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>page</subtype>
-          </LayoutBreak>
         <voice>
           <Rest>
             <durationType>measure</durationType>
@@ -2538,7 +2505,6 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerFixed>12.899</vspacerFixed>
         <voice>
           <Dynamic>
             <subtype>mp</subtype>
@@ -2640,9 +2606,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Chord>
             <durationType>quarter</durationType>
@@ -2705,7 +2668,6 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerFixed>12.7231</vspacerFixed>
         <voice>
           <Chord>
             <durationType>half</durationType>
@@ -2847,9 +2809,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Chord>
             <durationType>quarter</durationType>
@@ -2937,7 +2896,6 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerFixed>14.0747</vspacerFixed>
         <voice>
           <SystemText>
             <style>Tempo</style>
@@ -3184,9 +3142,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Rest>
             <durationType>measure</durationType>
@@ -3260,7 +3215,6 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerFixed>12.3501</vspacerFixed>
         <voice>
           <Chord>
             <durationType>half</durationType>
@@ -3499,9 +3453,6 @@ Mit ausbrechendem Schmerz</text>
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>page</subtype>
-          </LayoutBreak>
         <voice>
           <Chord>
             <durationType>quarter</durationType>
@@ -3771,9 +3722,6 @@ Mit ausbrechendem Schmerz</text>
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <TimeSig>
             <sigN>3</sigN>
@@ -3967,11 +3915,6 @@ Mit ausbrechendem Schmerz</text>
             <HairPin>
               <subtype>0</subtype>
               <placement>above</placement>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="-1.5"/>
-                <off2 x="0" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -4054,9 +3997,6 @@ Mit ausbrechendem Schmerz</text>
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <StaffText>
             <style>Expression</style>
@@ -4247,9 +4187,6 @@ Mit ausbrechendem Schmerz</text>
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Rest>
             <durationType>measure</durationType>
@@ -4347,9 +4284,6 @@ Mit ausbrechendem Schmerz</text>
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>page</subtype>
-          </LayoutBreak>
         <voice>
           <Tempo>
             <tempo>0.755</tempo>
@@ -5313,9 +5247,6 @@ Mit ausbrechendem Schmerz</text>
             <durationType>half</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="0" y="-2"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -6344,10 +6275,6 @@ Mit ausbrechendem Schmerz</text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o2 x="-1.1" y="0.3"/>
-                  <o3 x="-1.1" y="0.3"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -6870,10 +6797,6 @@ Mit ausbrechendem Schmerz</text>
             <durationType>half</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="0" y="-1.1"/>
-                  <o4 x="0" y="0.2"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -7116,11 +7039,6 @@ Mit ausbrechendem Schmerz</text>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="3"/>
-                <off2 x="0" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -8503,12 +8421,6 @@ Mit ausbrechendem Schmerz</text>
             <durationType>half</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="0" y="-0.147745"/>
-                  <o2 x="4.9168e-18" y="-0.157983"/>
-                  <o3 x="4.9168e-18" y="-0.157983"/>
-                  <o4 x="0.0714286" y="0.514286"/>
-                  </SlurSegment>
                 <SlurSegment no="1">
                   <o1 x="0" y="0.9"/>
                   </SlurSegment>
@@ -11812,11 +11724,6 @@ con tenerezza</text>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="-3" y="2"/>
-                <off2 x="3" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -12170,9 +12077,6 @@ con tenerezza</text>
             <durationType>half</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="-0.7" y="-0.1"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -12216,11 +12120,6 @@ con tenerezza</text>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="5"/>
-                <off2 x="-2" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -12232,9 +12131,6 @@ con tenerezza</text>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="0.3" y="0"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -12284,11 +12180,6 @@ con tenerezza</text>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="5"/>
-                <off2 x="-2" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -14774,11 +14665,6 @@ con tenerezza</text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o2 x="-0.0672268" y="0.579831"/>
-                  <o3 x="-0.0672268" y="0.579831"/>
-                  <o4 x="-0.498396" y="0.407954"/>
-                  </SlurSegment>
                 <SlurSegment no="1">
                   <offset x="-0.4" y="0.9"/>
                   </SlurSegment>
@@ -15549,7 +15435,6 @@ con tenerezza</text>
           </voice>
         </Measure>
       <Measure>
-        <vspacerDown>12.2804</vspacerDown>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -15911,7 +15796,6 @@ con tenerezza</text>
           </voice>
         </Measure>
       <Measure>
-        <vspacerDown>11.7804</vspacerDown>
         <voice>
           <Chord>
             <durationType>half</durationType>
@@ -16910,9 +16794,6 @@ con tenerezza</text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <offset x="0" y="0.5"/>
-                  </SlurSegment>
                 <up>up</up>
                 </Slur>
               <next>
@@ -16944,9 +16825,6 @@ con tenerezza</text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <offset x="0" y="0.5"/>
-                  </SlurSegment>
                 <up>up</up>
                 </Slur>
               <next>
@@ -16988,9 +16866,6 @@ con tenerezza</text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <offset x="0" y="0.5"/>
-                  </SlurSegment>
                 <up>up</up>
                 </Slur>
               <next>
