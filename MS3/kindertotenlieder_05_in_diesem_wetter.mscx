@@ -6258,7 +6258,7 @@
               <Slur>
                 <SlurSegment no="0">
                   <o2 x="-5.89922" y="-3.07785"/>
-                  <o3 x="-3.07785" y="-3.2061"/>
+                  <o3 x="0.76016" y="-21.0254"/>
                   <o4 x="0.512975" y="-9.87478"/>
                   </SlurSegment>
                 </Slur>
@@ -7545,7 +7545,7 @@
             <offset x="0.279429" y="0"/>
             <durationType>quarter</durationType>
             <Stem>
-              <userLen>11.5533</userLen>
+              <userLen>14.4318</userLen>
               </Stem>
             <Note>
               <Accidental>
@@ -7558,7 +7558,7 @@
           <Chord>
             <durationType>quarter</durationType>
             <Stem>
-              <userLen>11.3196</userLen>
+              <userLen>13.2386</userLen>
               </Stem>
             <Note>
               <Accidental>
@@ -8176,7 +8176,7 @@
               <tpc>21</tpc>
               </Note>
             <Arpeggio>
-              <offset x="-2.14028" y="0.867714"/>
+              <offset x="0.327015" y="-0.228861"/>
               <subtype>0</subtype>
               </Arpeggio>
             </Chord>
@@ -9178,7 +9178,7 @@
           <Chord>
             <durationType>quarter</durationType>
             <Stem>
-              <userLen>5</userLen>
+              <userLen>11.9305</userLen>
               </Stem>
             <Note>
               <Accidental>
@@ -11349,7 +11349,7 @@
               </Note>
             <Arpeggio>
               <subtype>0</subtype>
-              <userLen2>12.3921</userLen2>
+              <userLen2>17.0596</userLen2>
               </Arpeggio>
             </Chord>
           <Chord>
@@ -11441,7 +11441,7 @@
             <Arpeggio>
               <offset x="-2.63781" y="1.18073"/>
               <subtype>0</subtype>
-              <userLen2>12.0098</userLen2>
+              <userLen2>15.2629</userLen2>
               </Arpeggio>
             </Chord>
           <Chord>
@@ -19167,7 +19167,7 @@
                 <SlurSegment no="0">
                   <o2 x="-0.512975" y="-10.516"/>
                   <o3 x="-0.512975" y="-10.516"/>
-                  <o4 x="0.512975" y="-8.07936"/>
+                  <o4 x="0.512975" y="-11.232"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -19534,7 +19534,7 @@
             <dots>1</dots>
             <durationType>half</durationType>
             <Stem>
-              <userLen>17.7969</userLen>
+              <userLen>20.2642</userLen>
               </Stem>
             <StemDirection>up</StemDirection>
             <Note>
@@ -19650,7 +19650,7 @@
             <dots>1</dots>
             <durationType>half</durationType>
             <Stem>
-              <userLen>13.6168</userLen>
+              <userLen>16.6324</userLen>
               </Stem>
             <StemDirection>up</StemDirection>
             <Note>
@@ -20217,7 +20217,7 @@
           <Chord>
             <durationType>half</durationType>
             <Stem>
-              <userLen>11.7774</userLen>
+              <userLen>14.2446</userLen>
               </Stem>
             <Note>
               <Accidental>
@@ -20543,7 +20543,7 @@
               </Note>
             <Arpeggio>
               <subtype>0</subtype>
-              <userLen1>6.29411</userLen1>
+              <userLen1>8.48726</userLen1>
               </Arpeggio>
             </Chord>
           </voice>
@@ -22139,7 +22139,7 @@
               </Note>
             <Arpeggio>
               <subtype>0</subtype>
-              <userLen1>20.3841</userLen1>
+              <userLen1>26.1411</userLen1>
               <userLen2>5</userLen2>
               </Arpeggio>
             </Chord>
@@ -22273,7 +22273,7 @@
               </Note>
             <Arpeggio>
               <subtype>0</subtype>
-              <userLen1>20.4546</userLen1>
+              <userLen1>25.9374</userLen1>
               <userLen2>5</userLen2>
               </Arpeggio>
             </Chord>
@@ -24563,7 +24563,7 @@
           <Chord>
             <durationType>half</durationType>
             <Stem>
-              <userLen>5.9</userLen>
+              <userLen>8.02157</userLen>
               </Stem>
             <Note>
               <pitch>57</pitch>
@@ -24573,7 +24573,7 @@
           <Chord>
             <durationType>half</durationType>
             <Stem>
-              <userLen>4.8</userLen>
+              <userLen>7.20445</userLen>
               </Stem>
             <Note>
               <pitch>58</pitch>
@@ -26305,7 +26305,7 @@
             <Arpeggio>
               <offset x="-2.49369" y="-3.24192"/>
               <subtype>0</subtype>
-              <userLen1>12.2661</userLen1>
+              <userLen1>17.6408</userLen1>
               <userLen2>2.51996</userLen2>
               </Arpeggio>
             </Chord>
