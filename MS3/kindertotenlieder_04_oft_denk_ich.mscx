@@ -304,13 +304,12 @@
         <bottomGap>14</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
-          <style>User-1</style>
-          <text>Kindertotenlieder</text>
+          <style>Title</style>
+          <text>4. Oft denk’ ich, sie sind nur ausgegangen</text>
           </Text>
         <Text>
-          <style>User-2</style>
-          <text>4. Oft denk’ ich, sie sind nur ausgegangen
-<i><font size="16"></font>(“I think oft, they’ve only gone a journey”)</i></text>
+          <style>Subtitle</style>
+          <text>from <i>Kindertotenlieder</i></text>
           </Text>
         <Text>
           <style>Composer</style>
@@ -318,9 +317,7 @@
           </Text>
         <Text>
           <style>Lyricist</style>
-          <offset x="0" y="0.62"/>
-          <text>Friedrich Rückert
-<i>(English words by John Bernhoff)</i></text>
+          <text>Friedrich Rückert</text>
           </Text>
         </VBox>
       <HBox>

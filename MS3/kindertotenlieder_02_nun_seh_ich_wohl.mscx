@@ -300,23 +300,21 @@
         <bottomGap>16</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
-          <style>User-1</style>
-          <text>Kindertotenlieder</text>
+          <style>Lyricist</style>
+          <text>Friedrich Rückert</text>
           </Text>
         <Text>
-          <style>Lyricist</style>
-          <offset x="0" y="0.7"/>
-          <text>Friedrich Rückert
-<i>(English words by John Bernhoff)</i></text>
+          <style>Title</style>
+          <offset x="0" y="0.15"/>
+          <text>2. Nun seh’ ich wohl, warum so dunkle Flammen</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>from <i>Kindertotenlieder</i></text>
           </Text>
         <Text>
           <style>Composer</style>
           <text>Gustav Mahler</text>
-          </Text>
-        <Text>
-          <style>User-2</style>
-          <text>2. Nun seh’ ich wohl, warum so dunkle Flammen
-<i><font size="16"></font>(“Ah, now I know why oft I caught you gazing”)</i></text>
           </Text>
         </VBox>
       <HBox>

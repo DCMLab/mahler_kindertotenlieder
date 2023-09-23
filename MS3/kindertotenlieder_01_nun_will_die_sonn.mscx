@@ -304,6 +304,14 @@
         <bottomGap>18</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
+          <style>Title</style>
+          <text>1. Nun will die Sonn’ so hell aufgeh’n!</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>from <i>Kindertotenlieder</i></text>
+          </Text>
+        <Text>
           <style>Composer</style>
           <offset x="0" y="2.4552"/>
           <text>Gustav Mahler
@@ -311,19 +319,7 @@
           </Text>
         <Text>
           <style>Lyricist</style>
-          <offset x="0" y="0.5456"/>
-          <text>Friedrich Rückert
-<i>(English words by John Bernhoff)</i></text>
-          </Text>
-        <Text>
-          <style>User-1</style>
-          <text>Kindertotenlieder</text>
-          </Text>
-        <Text>
-          <style>User-2</style>
-          <offset x="0" y="8.5"/>
-          <text>1. Nun will die Sonn’ so hell aufgeh’n!
-<i><font size="16"></font>(“Once more the sun would gild the morn!”)</i></text>
+          <text>Friedrich Rückert</text>
           </Text>
         </VBox>
       <HBox>
