@@ -7,17 +7,11 @@
     <currentLayer>0</currentLayer>
     <Division>480</Division>
     <Style>
-      <pageWidth>8.26772</pageWidth>
-      <pageHeight>11.6929</pageHeight>
-      <pagePrintableWidth>7.08661</pagePrintableWidth>
-      <pageEvenLeftMargin>0.590551</pageEvenLeftMargin>
-      <pageOddLeftMargin>0.590551</pageOddLeftMargin>
-      <pageEvenTopMargin>0.590551</pageEvenTopMargin>
-      <pageEvenBottomMargin>0.590551</pageEvenBottomMargin>
-      <pageOddTopMargin>0.590551</pageOddTopMargin>
-      <pageOddBottomMargin>0.590551</pageOddBottomMargin>
+      <pageWidth>8.5</pageWidth>
+      <pageHeight>11</pageHeight>
+      <pageEvenLeftMargin>0.822835</pageEvenLeftMargin>
       <enableVerticalSpread>1</enableVerticalSpread>
-      <Spatium>1.5</Spatium>
+      <Spatium>1.75</Spatium>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -185,7 +179,7 @@
     <Staff id="1">
       <VBox>
         <height>22</height>
-        <bottomGap>14</bottomGap>
+        <bottomGap>12</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
@@ -3716,6 +3710,16 @@ Schlicht, aber warm</text>
             <HairPin>
               <subtype>0</subtype>
               <placement>above</placement>
+              <Segment>
+                <subtype>1</subtype>
+                <offset x="0" y="-2"/>
+                <off2 x="0" y="0"/>
+                </Segment>
+              <Segment>
+                <subtype>3</subtype>
+                <offset x="0" y="-1.71429"/>
+                <off2 x="1.71429" y="0"/>
+                </Segment>
               </HairPin>
             <next>
               <location>
@@ -3820,7 +3824,6 @@ Schlicht, aber warm</text>
           </voice>
         </Measure>
       <Measure>
-        <vspacerFixed>14.6357</vspacerFixed>
         <voice>
           <StaffText>
             <style>Expression</style>
@@ -4082,7 +4085,7 @@ mit Empfindung</text>
               </prev>
             </Spanner>
           <Chord>
-            <offset x="-0.516667" y="0"/>
+            <offset x="-0.442857" y="0"/>
             <durationType>quarter</durationType>
             <Note>
               <pitch>67</pitch>
@@ -4457,6 +4460,10 @@ mit Empfindung</text>
                 <SlurSegment no="1">
                   <o1 x="0" y="-0.5"/>
                   </SlurSegment>
+                <SlurSegment no="2">
+                  <o1 x="0" y="-1.71429"/>
+                  <offset x="0" y="-0.257143"/>
+                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -4484,10 +4491,6 @@ mit Empfindung</text>
             <velocity>33</velocity>
             <dynType>2</dynType>
             <offset x="-2.1" y="3.5"/>
-            <frameType>1</frameType>
-            <framePadding>0.3</framePadding>
-            <frameFgColor r="255" g="255" b="255" a="255"/>
-            <frameBgColor r="255" g="255" b="255" a="255"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -5504,6 +5507,9 @@ mit Empfindung</text>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
+                <SlurSegment no="1">
+                  <o1 x="0" y="-0.257143"/>
+                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -5652,6 +5658,9 @@ mit Empfindung</text>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
+                <SlurSegment no="1">
+                  <o4 x="0" y="0.857143"/>
+                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -6110,6 +6119,10 @@ mit Empfindung</text>
             <durationType>half</durationType>
             <Spanner type="Slur">
               <Slur>
+                <SlurSegment no="1">
+                  <o2 x="0" y="-0.6"/>
+                  <o3 x="0" y="-0.6"/>
+                  </SlurSegment>
                 <up>down</up>
                 </Slur>
               <next>
@@ -6159,6 +6172,16 @@ mit Empfindung</text>
               <subtype>0</subtype>
               <veloChange>10</veloChange>
               <dynType>2</dynType>
+              <Segment>
+                <subtype>1</subtype>
+                <offset x="0" y="2"/>
+                <off2 x="0" y="0"/>
+                </Segment>
+              <Segment>
+                <subtype>3</subtype>
+                <offset x="0" y="5.14286"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </HairPin>
             <next>
               <location>
@@ -6710,6 +6733,12 @@ mit Empfindung</text>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
+                <SlurSegment no="1">
+                  <o2 x="0" y="1.02857"/>
+                  <o3 x="2.05714" y="1.02857"/>
+                  <o4 x="0" y="1.02857"/>
+                  <offset x="0" y="0.342857"/>
+                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -7081,12 +7110,8 @@ mit Empfindung</text>
           <StaffText>
             <style>Expression</style>
             <placement>below</placement>
-            <minDistance>0.442849</minDistance>
-            <offset x="0" y="2"/>
-            <frameType>1</frameType>
-            <framePadding>0.3</framePadding>
-            <frameFgColor r="255" g="255" b="255" a="255"/>
-            <frameBgColor r="255" g="255" b="255" a="255"/>
+            <minDistance>0.459554</minDistance>
+            <offset x="-9.17879" y="2"/>
             <text>den Gesang fortsetzend
 continuare il canto</text>
             </StaffText>
@@ -7501,6 +7526,10 @@ continuare il canto</text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
+                <SlurSegment no="1">
+                  <o2 x="0" y="1.31947"/>
+                  <o3 x="0" y="1.31947"/>
+                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -9786,7 +9815,7 @@ continuare il canto</text>
       <Measure>
         <voice>
           <Chord>
-            <offset x="1.4" y="0"/>
+            <offset x="1.2" y="0"/>
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -10044,7 +10073,7 @@ continuare il canto</text>
             <durationType>quarter</durationType>
             </Rest>
           <Chord>
-            <offset x="-0.516667" y="0"/>
+            <offset x="-0.442857" y="0"/>
             <durationType>quarter</durationType>
             <Stem>
               <autoplace>0</autoplace>
@@ -10738,6 +10767,9 @@ continuare il canto</text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
+                <SlurSegment no="0">
+                  <o4 x="0.29376" y="0.88128"/>
+                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -11423,8 +11455,8 @@ continuare il canto</text>
             </Chord>
           <Beam>
             <Fragment>
-              <y1>-2.40005</y1>
-              <y2>-4.15005</y2>
+              <y1>-2.05719</y1>
+              <y2>-3.55719</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -11796,6 +11828,9 @@ continuare il canto</text>
             <durationType>half</durationType>
             <Spanner type="Slur">
               <Slur>
+                <SlurSegment no="1">
+                  <o1 x="0" y="0.514286"/>
+                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -12735,8 +12770,8 @@ continuare il canto</text>
             </Harmony>
           <Beam>
             <Fragment>
-              <y1>-1</y1>
-              <y2>-2.75</y2>
+              <y1>-0.857143</y1>
+              <y2>-2.35714</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -13392,6 +13427,10 @@ continuare il canto</text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
+                <SlurSegment no="1">
+                  <o1 x="0" y="-0.857143"/>
+                  <o3 x="4.02857" y="0"/>
+                  </SlurSegment>
                 <up>down</up>
                 </Slur>
               <next>
@@ -13703,6 +13742,14 @@ continuare il canto</text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
+                <SlurSegment no="1">
+                  <o1 x="0" y="-0.514286"/>
+                  <o2 x="-2.22857" y="-0.771429"/>
+                  <o3 x="3.34286" y="-0.771429"/>
+                  <autoplace>0</autoplace>
+                  <offset x="0" y="-3"/>
+                  </SlurSegment>
+                <up>up</up>
                 </Slur>
               <next>
                 <location>
@@ -13774,8 +13821,8 @@ continuare il canto</text>
             </Harmony>
           <Beam>
             <Fragment>
-              <y1>-3.66333</y1>
-              <y2>-1.83167</y2>
+              <y1>-3.14</y1>
+              <y2>-1.57</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -14115,6 +14162,11 @@ continuare il canto</text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
+                <SlurSegment no="1">
+                  <o2 x="0" y="3.77143"/>
+                  <o3 x="0" y="3.77143"/>
+                  <offset x="0" y="0.0857143"/>
+                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -14749,12 +14801,6 @@ continuare il canto</text>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="1">
-                  <o1 x="0" y="0.269143"/>
-                  <o2 x="0" y="1.03086"/>
-                  <o3 x="0" y="1.23086"/>
-                  <o4 x="0" y="-0.958857"/>
-                  </SlurSegment>
                 <up>up</up>
                 </Slur>
               <next>
