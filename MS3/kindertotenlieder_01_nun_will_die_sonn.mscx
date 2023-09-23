@@ -7,17 +7,11 @@
     <currentLayer>0</currentLayer>
     <Division>480</Division>
     <Style>
-      <pageWidth>8.26772</pageWidth>
-      <pageHeight>11.6929</pageHeight>
-      <pagePrintableWidth>7.08661</pagePrintableWidth>
-      <pageEvenLeftMargin>0.590551</pageEvenLeftMargin>
-      <pageOddLeftMargin>0.590551</pageOddLeftMargin>
-      <pageEvenTopMargin>0.590551</pageEvenTopMargin>
-      <pageEvenBottomMargin>0.590551</pageEvenBottomMargin>
-      <pageOddTopMargin>0.590551</pageOddTopMargin>
-      <pageOddBottomMargin>0.590551</pageOddBottomMargin>
+      <pageWidth>8.5</pageWidth>
+      <pageHeight>11</pageHeight>
+      <pageEvenLeftMargin>0.822835</pageEvenLeftMargin>
       <enableVerticalSpread>1</enableVerticalSpread>
-      <Spatium>1.55</Spatium>
+      <Spatium>1.75</Spatium>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -185,7 +179,7 @@
     <Staff id="1">
       <VBox>
         <height>21</height>
-        <bottomGap>18</bottomGap>
+        <bottomGap>15.9429</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
@@ -774,8 +768,13 @@
               <subtype>1</subtype>
               <placement>above</placement>
               <Segment>
-                <subtype>0</subtype>
+                <subtype>1</subtype>
                 <offset x="0" y="-3.73"/>
+                <off2 x="0" y="0"/>
+                </Segment>
+              <Segment>
+                <subtype>3</subtype>
+                <offset x="0" y="-2"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
@@ -6515,6 +6514,9 @@ heftiger</text>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
+                <SlurSegment no="1">
+                  <o1 x="0" y="-1.72588"/>
+                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -6542,8 +6544,10 @@ heftiger</text>
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o2 x="1.25745" y="-1.64435"/>
-                  <o3 x="1.25745" y="-1.64435"/>
+                  <o1 x="-0.151302" y="3.78254"/>
+                  <o2 x="0.453905" y="3.78254"/>
+                  <o3 x="0.453905" y="3.78254"/>
+                  <o4 x="0" y="3.47994"/>
                   </SlurSegment>
                 <up>up</up>
                 </Slur>
@@ -7633,9 +7637,6 @@ sehr ausdrucksvoll</text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="1">
-                  <o4 x="0" y="-1.32503"/>
-                  </SlurSegment>
                 <up>up</up>
                 </Slur>
               <next>
@@ -7804,8 +7805,8 @@ sehr ausdrucksvoll</text>
         <voice>
           <Beam>
             <Fragment>
-              <y1>-3.08</y1>
-              <y2>-2.86</y2>
+              <y1>-2.728</y1>
+              <y2>-2.53314</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -7849,8 +7850,8 @@ sehr ausdrucksvoll</text>
             </Chord>
           <Beam>
             <Fragment>
-              <y1>-2.42</y1>
-              <y2>-2.2</y2>
+              <y1>-2.14343</y1>
+              <y2>-1.94857</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -9237,17 +9238,6 @@ sehr ausdrucksvoll</text>
             <HairPin>
               <subtype>1</subtype>
               <veloChange>10</veloChange>
-              <Segment>
-                <subtype>1</subtype>
-                <offset x="0" y="2"/>
-                <off2 x="0" y="0"/>
-                </Segment>
-              <Segment>
-                <subtype>3</subtype>
-                <offset x="0" y="4.37509"/>
-                <off2 x="-0.779429" y="0"/>
-                <autoplace>0</autoplace>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -13346,8 +13336,8 @@ sehr ausdrucksvoll</text>
             </Harmony>
           <Beam>
             <Fragment>
-              <y1>-2.79098</y1>
-              <y2>-3.67098</y2>
+              <y1>-2.47201</y1>
+              <y2>-3.25144</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -13535,7 +13525,7 @@ sehr ausdrucksvoll</text>
             <name>V7/V</name>
             </Harmony>
           <Chord>
-            <offset x="0.44" y="0"/>
+            <offset x="0.389714" y="0"/>
             <durationType>quarter</durationType>
             <Stem>
               <userLen>-0.623543</userLen>
@@ -13801,7 +13791,7 @@ sehr ausdrucksvoll</text>
           </voice>
         <voice>
           <Chord>
-            <offset x="0.264" y="0"/>
+            <offset x="0.233829" y="0"/>
             <dots>1</dots>
             <durationType>half</durationType>
             <Spanner type="Slur">
@@ -14597,8 +14587,8 @@ sehr ausdrucksvoll</text>
             </Chord>
           <Beam>
             <Fragment>
-              <y1>-3.0795</y1>
-              <y2>-4.3995</y2>
+              <y1>-2.72756</y1>
+              <y2>-3.8967</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -16223,8 +16213,8 @@ sehr ausdrucksvoll</text>
             </Harmony>
           <Beam>
             <Fragment>
-              <y1>-3.89302</y1>
-              <y2>-4.11302</y2>
+              <y1>-3.4481</y1>
+              <y2>-3.64296</y2>
               </Fragment>
             </Beam>
           <Chord>
