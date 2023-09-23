@@ -322,10 +322,6 @@
           <text>Friedrich Rückert</text>
           </Text>
         </VBox>
-      <HBox>
-        <width>8</width>
-        <boxAutoSize>0</boxAutoSize>
-        </HBox>
       <Measure len="1/4">
         <irregular>1</irregular>
         <voice>
@@ -2959,219 +2955,22 @@ nicht schleppend</text>
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
-          <location>
-            <fractions>-1/2</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.1666666666666667</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 70</text>
-            </Tempo>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.1583300000000001</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 69.5</text>
-            </Tempo>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.1499999999999999</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 69</text>
-            </Tempo>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.14167</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 68.5</text>
-            </Tempo>
           </voice>
         </Measure>
       <Measure>
         <voice>
-          <Tempo>
-            <tempo>1.1666700000000001</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 70</text>
-            </Tempo>
           <Rest>
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
-          <location>
-            <fractions>-7/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.16333</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 69.8</text>
-            </Tempo>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.1599999999999999</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 69.6</text>
-            </Tempo>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.155</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 69.3</text>
-            </Tempo>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.15167</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 69.1</text>
-            </Tempo>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.1483300000000001</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 68.9</text>
-            </Tempo>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.145</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 68.7</text>
-            </Tempo>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.14167</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 68.5</text>
-            </Tempo>
           </voice>
         </Measure>
       <Measure>
         <voice>
-          <Tempo>
-            <tempo>1.1383300000000001</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 68.3</text>
-            </Tempo>
           <Rest>
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
-          <location>
-            <fractions>-7/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.1333299999999999</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 68</text>
-            </Tempo>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.1299999999999999</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 67.8</text>
-            </Tempo>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.1266700000000001</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 67.6</text>
-            </Tempo>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.1233299999999999</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 67.4</text>
-            </Tempo>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.1200000000000001</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 67.2</text>
-            </Tempo>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.115</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <offset x="-2.07643" y="-1.16943"/>
-            <text><sym>metNoteQuarterUp</sym> = 66.9</text>
-            </Tempo>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.1116666666666668</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <minDistance>0.28697</minDistance>
-            <size>10</size>
-            <offset x="0.461429" y="-0.569569"/>
-            <text><sym>metNoteQuarterUp</sym> = 66.7</text>
-            </Tempo>
           </voice>
         </Measure>
       <Measure>
@@ -3179,84 +2978,17 @@ nicht schleppend</text>
           <subtype>page</subtype>
           </LayoutBreak>
         <voice>
-          <Tempo>
-            <tempo>1.10833</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 66.5</text>
-            </Tempo>
           <Rest>
             <durationType>half</durationType>
             </Rest>
-          <location>
-            <fractions>-3/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.105</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 66.3</text>
-            </Tempo>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.1016699999999999</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 66.1</text>
-            </Tempo>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.09667</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 65.8</text>
-            </Tempo>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.0933299999999999</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 65.6</text>
-            </Tempo>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.0900000000000001</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 65.4</text>
-            </Tempo>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
             <placement>above</placement>
             </Dynamic>
-          <Tempo>
-            <tempo>1.08667</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 65.2</text>
-            </Tempo>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>quarter</durationType>
@@ -3273,18 +3005,6 @@ nicht schleppend</text>
               </Note>
             </Chord>
           </voice>
-        <voice>
-          <location>
-            <fractions>7/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.0833299999999999</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 65</text>
-            </Tempo>
-          </voice>
         </Measure>
       <Measure>
         <voice>
@@ -3293,13 +3013,6 @@ nicht schleppend</text>
             <text>ritornare al Tempo I.
 zum Tempo I. zurückkehrend</text>
             </StaffText>
-          <Tempo>
-            <tempo>1.0800000000000001</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 64.8</text>
-            </Tempo>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
@@ -3326,13 +3039,6 @@ zum Tempo I. zurückkehrend</text>
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Tempo>
-            <tempo>1.075</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 64.5</text>
-            </Tempo>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -3353,13 +3059,6 @@ zum Tempo I. zurückkehrend</text>
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <Tempo>
-            <tempo>1.0716699999999999</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 64.3</text>
-            </Tempo>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>half</durationType>
@@ -3376,36 +3075,6 @@ zum Tempo I. zurückkehrend</text>
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-3/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.06833</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 64.1</text>
-            </Tempo>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.0649999999999999</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 63.9</text>
-            </Tempo>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.05667</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 63.4</text>
-            </Tempo>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>quarter</durationType>
@@ -3422,16 +3091,6 @@ zum Tempo I. zurückkehrend</text>
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.0533300000000001</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 63.2</text>
-            </Tempo>
           </voice>
         <voice>
           <Chord>
@@ -3467,13 +3126,6 @@ zum Tempo I. zurückkehrend</text>
         </Measure>
       <Measure>
         <voice>
-          <Tempo>
-            <tempo>1.05</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 63</text>
-            </Tempo>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
@@ -3506,13 +3158,6 @@ zum Tempo I. zurückkehrend</text>
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Tempo>
-            <tempo>1.04667</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 62.8</text>
-            </Tempo>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
@@ -3533,13 +3178,6 @@ zum Tempo I. zurückkehrend</text>
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Tempo>
-            <tempo>1.0433300000000001</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 62.6</text>
-            </Tempo>
           <Chord>
             <durationType>half</durationType>
             <Spanner type="Slur">
@@ -3565,36 +3203,6 @@ zum Tempo I. zurückkehrend</text>
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-3/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.03833</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 62.3</text>
-            </Tempo>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.0349999999999999</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 62.1</text>
-            </Tempo>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.02833</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 61.7</text>
-            </Tempo>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>quarter</durationType>
@@ -3610,27 +3218,10 @@ zum Tempo I. zurückkehrend</text>
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.0249999999999999</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 61.5</text>
-            </Tempo>
           </voice>
         </Measure>
       <Measure>
         <voice>
-          <Tempo>
-            <tempo>1.0216700000000001</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 61.3</text>
-            </Tempo>
           <Chord>
             <BeamMode>begin</BeamMode>
             <dots>1</dots>
@@ -3648,46 +3239,6 @@ zum Tempo I. zurückkehrend</text>
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/2</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.0133300000000001</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 60.8</text>
-            </Tempo>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.01</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 60.6</text>
-            </Tempo>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.00667</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 60.4</text>
-            </Tempo>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
-          <Tempo>
-            <tempo>0.99833300000000003</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 59.9</text>
-            </Tempo>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>quarter</durationType>
@@ -3705,16 +3256,6 @@ zum Tempo I. zurückkehrend</text>
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>0.995</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 59.7</text>
-            </Tempo>
           </voice>
         </Measure>
       <Measure>
@@ -3723,13 +3264,6 @@ zum Tempo I. zurückkehrend</text>
           <subtype>line</subtype>
           </LayoutBreak>
         <voice>
-          <Tempo>
-            <tempo>0.99166699999999997</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 59.5</text>
-            </Tempo>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>whole</durationType>
@@ -3746,141 +3280,14 @@ zum Tempo I. zurückkehrend</text>
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-7/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>0.98833300000000002</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 59.3</text>
-            </Tempo>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>0.98499999999999999</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 59.1</text>
-            </Tempo>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>0.97999999999999998</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 58.8</text>
-            </Tempo>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>0.97666699999999995</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 58.6</text>
-            </Tempo>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>0.973333</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 58.4</text>
-            </Tempo>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>0.96999999999999997</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 58.2</text>
-            </Tempo>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>0.96666700000000005</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 58</text>
-            </Tempo>
           </voice>
         </Measure>
       <Measure>
         <voice>
-          <Tempo>
-            <tempo>0.96333299999999999</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 57.8</text>
-            </Tempo>
           <Rest>
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
-          <location>
-            <fractions>-7/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>0.95833299999999999</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 57.5</text>
-            </Tempo>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>0.95499999999999996</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 57.3</text>
-            </Tempo>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>0.95166700000000004</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 57.1</text>
-            </Tempo>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>0.94833299999999998</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 56.9</text>
-            </Tempo>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
-          <Tempo>
-            <tempo>0.93999999999999995</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 56.4</text>
-            </Tempo>
           </voice>
         </Measure>
       <Measure>
