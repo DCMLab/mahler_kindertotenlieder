@@ -261,9 +261,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Rest>
             <durationType>measure</durationType>
@@ -344,9 +341,6 @@ Schlicht, aber warm</text>
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Rest>
             <durationType>quarter</durationType>
@@ -593,9 +587,6 @@ Schlicht, aber warm</text>
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>page</subtype>
-          </LayoutBreak>
         <voice>
           <Chord>
             <durationType>quarter</durationType>
@@ -824,9 +815,6 @@ Schlicht, aber warm</text>
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <TimeSig>
             <sigN>3</sigN>
@@ -1025,11 +1013,6 @@ Schlicht, aber warm</text>
               </Lyrics>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="0.1" y="0.5"/>
-                  <o2 x="0" y="0.5"/>
-                  <o3 x="0" y="0.5"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -1094,9 +1077,6 @@ Schlicht, aber warm</text>
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Chord>
             <durationType>quarter</durationType>
@@ -1199,11 +1179,6 @@ Schlicht, aber warm</text>
               <subtype>0</subtype>
               <veloChange>10</veloChange>
               <placement>above</placement>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="-2"/>
-                <off2 x="2" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -1326,7 +1301,6 @@ Schlicht, aber warm</text>
           </voice>
         </Measure>
       <Measure>
-        <vspacerFixed>15.1155</vspacerFixed>
         <voice>
           <Chord>
             <durationType>quarter</durationType>
@@ -1343,11 +1317,6 @@ Schlicht, aber warm</text>
               </Lyrics>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="0" y="-0.9"/>
-                  <o4 x="0" y="-0.8"/>
-                  <offset x="0" y="0.4"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -1390,9 +1359,6 @@ Schlicht, aber warm</text>
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Rest>
             <durationType>measure</durationType>
@@ -1516,9 +1482,6 @@ Schlicht, aber warm</text>
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>page</subtype>
-          </LayoutBreak>
         <voice>
           <TimeSig>
             <sigN>3</sigN>
@@ -1679,9 +1642,6 @@ Schlicht, aber warm</text>
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Chord>
             <durationType>quarter</durationType>
@@ -1788,11 +1748,6 @@ Schlicht, aber warm</text>
               </Lyrics>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o2 x="1.30554e-18" y="0.2"/>
-                  <o3 x="1.30554e-18" y="0.2"/>
-                  <o4 x="0" y="0.1"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -1904,9 +1859,6 @@ Schlicht, aber warm</text>
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Rest>
             <durationType>measure</durationType>
@@ -2020,9 +1972,6 @@ Schlicht, aber warm</text>
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Chord>
             <durationType>half</durationType>
@@ -2206,10 +2155,14 @@ Schlicht, aber warm</text>
             </Chord>
           <StaffText>
             <style>Expression</style>
+            <minDistance>-0.100622</minDistance>
+            <offset x="-5.48352" y="-1.12826"/>
             <text>warm, nicht eilen</text>
             </StaffText>
           <StaffText>
             <style>Expression</style>
+            <minDistance>0.5</minDistance>
+            <offset x="-8.17763" y="-3.52665"/>
             <text>con calore, senza fretta</text>
             </StaffText>
           <Chord>
@@ -2295,20 +2248,12 @@ Schlicht, aber warm</text>
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>page</subtype>
-          </LayoutBreak>
         <voice>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
               <veloChange>10</veloChange>
               <placement>above</placement>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="-2"/>
-                <off2 x="-1" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -2617,9 +2562,6 @@ Schlicht, aber warm</text>
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Rest>
             <durationType>measure</durationType>
@@ -2741,9 +2683,6 @@ Schlicht, aber warm</text>
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Chord>
             <durationType>quarter</durationType>
@@ -2919,9 +2858,6 @@ Schlicht, aber warm</text>
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Chord>
             <durationType>quarter</durationType>
@@ -3143,9 +3079,6 @@ Schlicht, aber warm</text>
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>page</subtype>
-          </LayoutBreak>
         <voice>
           <Rest>
             <durationType>measure</durationType>
@@ -3225,9 +3158,6 @@ Schlicht, aber warm</text>
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <TimeSig>
             <sigN>2</sigN>
@@ -3516,9 +3446,6 @@ Schlicht, aber warm</text>
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <StaffText>
             <style>Expression</style>
@@ -3542,11 +3469,6 @@ Schlicht, aber warm</text>
               </Lyrics>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="1">
-                  <o1 x="0" y="-0.9"/>
-                  <o2 x="-5.22216e-18" y="0.4"/>
-                  <o3 x="-5.22216e-18" y="0.4"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -3671,9 +3593,6 @@ Schlicht, aber warm</text>
               </Lyrics>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="0" y="-0.3"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -3797,11 +3716,6 @@ Schlicht, aber warm</text>
             <HairPin>
               <subtype>0</subtype>
               <placement>above</placement>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="-2"/>
-                <off2 x="2" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -3826,9 +3740,6 @@ Schlicht, aber warm</text>
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Chord>
             <durationType>quarter</durationType>
@@ -4023,9 +3934,6 @@ Schlicht, aber warm</text>
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>page</subtype>
-          </LayoutBreak>
         <voice>
           <Fermata>
             <subtype>fermataAbove</subtype>
@@ -4367,11 +4275,6 @@ mit Empfindung</text>
               <subtype>0</subtype>
               <veloChange>10</veloChange>
               <dynType>2</dynType>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="4.5"/>
-                <off2 x="-0.9" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -4418,11 +4321,6 @@ mit Empfindung</text>
               <subtype>1</subtype>
               <veloChange>10</veloChange>
               <dynType>2</dynType>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="4.5"/>
-                <off2 x="0" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -4558,10 +4456,6 @@ mit Empfindung</text>
                   </SlurSegment>
                 <SlurSegment no="1">
                   <o1 x="0" y="-0.5"/>
-                  </SlurSegment>
-                <SlurSegment no="2">
-                  <o1 x="0" y="-2"/>
-                  <offset x="0" y="-0.3"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -5502,11 +5396,6 @@ mit Empfindung</text>
               <veloChange>10</veloChange>
               <dynType>2</dynType>
               <endText></endText>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="-0.4" y="4"/>
-                <off2 x="0" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -5552,11 +5441,6 @@ mit Empfindung</text>
               <subtype>1</subtype>
               <veloChange>10</veloChange>
               <dynType>2</dynType>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="3.5"/>
-                <off2 x="0" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -5608,11 +5492,6 @@ mit Empfindung</text>
               <subtype>0</subtype>
               <veloChange>10</veloChange>
               <dynType>2</dynType>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="-1" y="3.5"/>
-                <off2 x="1" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -5625,12 +5504,6 @@ mit Empfindung</text>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="0" y="-0.5"/>
-                  </SlurSegment>
-                <SlurSegment no="1">
-                  <o1 x="0" y="-0.3"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -5779,12 +5652,6 @@ mit Empfindung</text>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="0" y="0.9"/>
-                  </SlurSegment>
-                <SlurSegment no="1">
-                  <o4 x="0" y="1"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -6062,13 +5929,6 @@ mit Empfindung</text>
             <durationType>half</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="1">
-                  <o1 x="0" y="-1.3"/>
-                  <o2 x="0" y="1.6"/>
-                  <o3 x="0" y="1.6"/>
-                  <o4 x="0" y="0.2"/>
-                  <offset x="0" y="-0.7"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -6250,10 +6110,6 @@ mit Empfindung</text>
             <durationType>half</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o2 x="0" y="-0.7"/>
-                  <o3 x="0" y="-0.7"/>
-                  </SlurSegment>
                 <up>down</up>
                 </Slur>
               <next>
@@ -6303,11 +6159,6 @@ mit Empfindung</text>
               <subtype>0</subtype>
               <veloChange>10</veloChange>
               <dynType>2</dynType>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="6"/>
-                <off2 x="0" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -6688,11 +6539,6 @@ mit Empfindung</text>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="-1.5" y="2"/>
-                <off2 x="1.5" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -6864,12 +6710,6 @@ mit Empfindung</text>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="1">
-                  <o2 x="0" y="1.2"/>
-                  <o3 x="2.4" y="1.2"/>
-                  <o4 x="0" y="1.2"/>
-                  <offset x="0" y="0.4"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -7078,11 +6918,6 @@ mit Empfindung</text>
             <HairPin>
               <subtype>0</subtype>
               <veloChange>10</veloChange>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="3.5"/>
-                <off2 x="-2" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -7126,11 +6961,6 @@ mit Empfindung</text>
             <HairPin>
               <subtype>1</subtype>
               <veloChange>10</veloChange>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="1" y="3.5"/>
-                <off2 x="-3" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -7271,7 +7101,7 @@ continuare il canto</text>
               </Spanner>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
+                <SlurSegment no="1">
                   <o2 x="-1.884" y="-0.986857"/>
                   <offset x="0" y="0.5"/>
                   </SlurSegment>
@@ -7671,10 +7501,6 @@ continuare il canto</text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o2 x="0" y="1.53938"/>
-                  <o3 x="0" y="1.53938"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -7761,9 +7587,6 @@ continuare il canto</text>
             <Note>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="1">
-                    <offset x="0" y="-0.5"/>
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -7868,7 +7691,6 @@ continuare il canto</text>
           </voice>
         </Measure>
       <Measure>
-        <vspacerDown>7.7702</vspacerDown>
         <voice>
           <Chord>
             <durationType>quarter</durationType>
@@ -7907,9 +7729,6 @@ continuare il canto</text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <offset x="0" y="-0.3"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -8175,9 +7994,6 @@ continuare il canto</text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="1">
-                  <offset x="0" y="-0.4"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -8483,11 +8299,6 @@ continuare il canto</text>
               <subtype>0</subtype>
               <veloChange>10</veloChange>
               <dynType>2</dynType>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="2"/>
-                <off2 x="-2" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -8538,11 +8349,6 @@ continuare il canto</text>
               <subtype>1</subtype>
               <veloChange>10</veloChange>
               <dynType>2</dynType>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="5.11283"/>
-                <off2 x="-1" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -8895,12 +8701,6 @@ continuare il canto</text>
               <subtype>0</subtype>
               <veloChange>10</veloChange>
               <dynType>2</dynType>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="4.5"/>
-                <off2 x="0" y="0"/>
-                <minDistance>0.282362</minDistance>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -8912,10 +8712,6 @@ continuare il canto</text>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="0.1" y="0.5"/>
-                  <o4 x="0" y="-1.1"/>
-                  </SlurSegment>
                 <up>up</up>
                 </Slur>
               <next>
@@ -8961,11 +8757,6 @@ continuare il canto</text>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="1" y="4.5"/>
-                <off2 x="-3" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -9050,11 +8841,6 @@ continuare il canto</text>
             <durationType>half</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="1">
-                  <o1 x="0" y="-0.3"/>
-                  <o2 x="0" y="0.2"/>
-                  <o3 x="0" y="0.2"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -9805,11 +9591,6 @@ continuare il canto</text>
               <subtype>0</subtype>
               <veloChange>10</veloChange>
               <dynType>2</dynType>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="2"/>
-                <off2 x="3" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -9857,11 +9638,6 @@ continuare il canto</text>
               <subtype>1</subtype>
               <veloChange>10</veloChange>
               <dynType>2</dynType>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="2"/>
-                <off2 x="4" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -11364,12 +11140,6 @@ continuare il canto</text>
             <durationType>half</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="0" y="7.8"/>
-                  <o4 x="0" y="1"/>
-                  <autoplace>0</autoplace>
-                  <offset x="0" y="-0.5"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -12026,14 +11796,6 @@ continuare il canto</text>
             <durationType>half</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="0" y="0.6"/>
-                  <o2 x="0.128282" y="1.28282"/>
-                  <o3 x="0.128282" y="1.28282"/>
-                  </SlurSegment>
-                <SlurSegment no="1">
-                  <o1 x="0" y="0.6"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -12192,9 +11954,6 @@ continuare il canto</text>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="0" y="-0.3"/>
-                  </SlurSegment>
                 <up>up</up>
                 </Slur>
               <next>
@@ -12527,11 +12286,6 @@ continuare il canto</text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o2 x="0" y="3.7"/>
-                  <o3 x="0" y="3.7"/>
-                  <offset x="0" y="0.3"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -12989,10 +12743,6 @@ continuare il canto</text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="0" y="1"/>
-                  <o4 x="0" y="-0.2"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -13057,11 +12807,6 @@ continuare il canto</text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o2 x="-1" y="-1.3"/>
-                  <o3 x="-1" y="-1.3"/>
-                  <o4 x="-0.9" y="0.3"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -13647,10 +13392,6 @@ continuare il canto</text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="0" y="-1"/>
-                  <o3 x="4.7" y="0"/>
-                  </SlurSegment>
                 <up>down</up>
                 </Slur>
               <next>
@@ -13962,13 +13703,6 @@ continuare il canto</text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="0" y="-0.6"/>
-                  <o2 x="-2.6" y="-0.9"/>
-                  <o3 x="3.9" y="-0.9"/>
-                  <autoplace>0</autoplace>
-                  <offset x="0" y="-3.5"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -14305,9 +14039,6 @@ continuare il canto</text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="0" y="-0.8"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -14344,10 +14075,6 @@ continuare il canto</text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o2 x="-0.0998103" y="4.09905"/>
-                  <o3 x="-0.0998103" y="4.09905"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -14388,11 +14115,6 @@ continuare il canto</text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o2 x="0" y="4.4"/>
-                  <o3 x="0" y="4.4"/>
-                  <offset x="0" y="0.1"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -14683,11 +14405,10 @@ continuare il canto</text>
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o2 x="0" y="1.4"/>
-                  <o3 x="0" y="5.9"/>
-                  <o4 x="0" y="6"/>
-                  <autoplace>0</autoplace>
-                  <offset x="0" y="0.3"/>
+                  <o1 x="0" y="-1.19952"/>
+                  <o2 x="2.74176" y="-4.45536"/>
+                  <o3 x="-1.02816" y="-2.05632"/>
+                  <o4 x="0.51408" y="0.34272"/>
                   </SlurSegment>
                 <up>down</up>
                 </Slur>
@@ -15028,14 +14749,11 @@ continuare il canto</text>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
+                <SlurSegment no="1">
                   <o1 x="0" y="0.269143"/>
                   <o2 x="0" y="1.03086"/>
                   <o3 x="0" y="1.23086"/>
                   <o4 x="0" y="-0.958857"/>
-                  </SlurSegment>
-                <SlurSegment no="1">
-                  <o4 x="0" y="1.1"/>
                   </SlurSegment>
                 <up>up</up>
                 </Slur>
@@ -15233,9 +14951,6 @@ continuare il canto</text>
             <durationType>half</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="1">
-                  <o1 x="0" y="0.6"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -15481,10 +15196,6 @@ continuare il canto</text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="0.4" y="0.2"/>
-                  <o4 x="0" y="-1"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -15535,9 +15246,6 @@ continuare il canto</text>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <offset x="0.1" y="0.5"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
