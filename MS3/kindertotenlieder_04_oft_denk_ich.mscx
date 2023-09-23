@@ -159,7 +159,8 @@
     <metaTag name="poet"></metaTag>
     <metaTag name="reviewers">AN</metaTag>
     <metaTag name="source">http://musescore.com/user/27638568/scores/5062118</metaTag>
-    <metaTag name="translator">English text by John Bernhoff</metaTag>
+    <metaTag name="translator">John Bernhoff</metaTag>
+    <metaTag name="typesetter">https://musescore.com/user/4887176</metaTag>
     <metaTag name="viaf">https://viaf.org/viaf/177009360/</metaTag>
     <metaTag name="wikidata">https://www.wikidata.org/wiki/Q589396</metaTag>
     <metaTag name="workNumber"></metaTag>
