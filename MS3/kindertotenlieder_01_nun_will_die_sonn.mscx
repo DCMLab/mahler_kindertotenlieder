@@ -220,7 +220,6 @@
             <tempo>0.93333299999999997</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 56</text>
             </Tempo>
           <SystemText>
@@ -1921,7 +1920,6 @@
             <BeamMode>begin</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
-              <align>left,baseline</align>
               <text>musst</text>
               </Lyrics>
             <Lyrics>
@@ -2742,7 +2740,6 @@ nicht schleppend</text>
             <tempo>1.1666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 70</text>
             </Tempo>
           <Rest>
@@ -3127,7 +3124,6 @@ zum Tempo I. zurückkehrend</text>
             <tempo>0.93333299999999997</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 56</text>
             </Tempo>
           <Rest>
