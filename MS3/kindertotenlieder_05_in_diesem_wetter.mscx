@@ -209,23 +209,30 @@
     <showUnprintable>0</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q7304</metaTag>
     <metaTag name="annotators">Amelia Brey</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1904</metaTag>
+    <metaTag name="composed_source">https://mahlerfoundation.org/mahler/compositions/kindertotenlieder/kindertotenlieder-introduction/</metaTag>
     <metaTag name="composed_start">1901</metaTag>
     <metaTag name="composer">Gustav Mahler</metaTag>
     <metaTag name="copyright">OpenScore (CC0)</metaTag>
     <metaTag name="creationDate">2017-06-17</metaTag>
     <metaTag name="harmony_version">2.3.0</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/Kindertotenlieder_(Mahler%2C_Gustav)</metaTag>
     <metaTag name="lyricist">Friedrich Rückert</metaTag>
     <metaTag name="movementNumber">5</metaTag>
     <metaTag name="movementTitle">In diesem Wetter</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/cc00e04d-eb29-3f40-b9df-04706a5579a2</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/21911</metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="reviewers">ST</metaTag>
     <metaTag name="source">https://musescore.com/user/27638568/scores/5052823</metaTag>
     <metaTag name="translator">John Bernhoff</metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/177009360/</metaTag>
+    <metaTag name="wikidata">https://www.wikidata.org/wiki/Q589396</metaTag>
     <metaTag name="workNumber"></metaTag>
     <metaTag name="workTitle">Kindertotenlieder</metaTag>
     <Part>

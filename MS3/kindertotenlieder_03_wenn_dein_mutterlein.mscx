@@ -136,22 +136,29 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q7304</metaTag>
     <metaTag name="annotators">Amelia Brey</metaTag>
     <metaTag name="arranger">Transcribed by pental from IMSLP #37187.  Source: https://imslp.org/wiki/Special:ReverseLookup/37187</metaTag>
     <metaTag name="composed_end">1904</metaTag>
+    <metaTag name="composed_source">https://mahlerfoundation.org/mahler/compositions/kindertotenlieder/kindertotenlieder-introduction/</metaTag>
     <metaTag name="composed_start">1901</metaTag>
     <metaTag name="composer">Gustav Mahler</metaTag>
     <metaTag name="copyright">OpenScore (CC0)</metaTag>
     <metaTag name="creationDate">2017-06-17</metaTag>
     <metaTag name="harmony_version">2.3.0</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/Kindertotenlieder_(Mahler%2C_Gustav)</metaTag>
     <metaTag name="lyricist">Friedrich Rückert</metaTag>
     <metaTag name="movementNumber">3</metaTag>
     <metaTag name="movementTitle">Wenn dein Mütterlein</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/7eb5f71b-1910-3018-9e8a-45aab950d200</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/21911</metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="reviewers">AN</metaTag>
     <metaTag name="source">http://musescore.com/user/27638568/scores/5052787</metaTag>
     <metaTag name="translator">English text by John Bernhoff</metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/177009360/</metaTag>
+    <metaTag name="wikidata">https://www.wikidata.org/wiki/Q589396</metaTag>
     <metaTag name="workNumber"></metaTag>
     <metaTag name="workTitle">Kindertotenlieder</metaTag>
     <Part>
