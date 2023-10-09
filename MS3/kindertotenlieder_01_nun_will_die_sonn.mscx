@@ -7,154 +7,40 @@
     <currentLayer>0</currentLayer>
     <Division>480</Division>
     <Style>
-      <pageWidth>8.26772</pageWidth>
-      <pageHeight>11.6929</pageHeight>
-      <pagePrintableWidth>7.08661</pagePrintableWidth>
-      <pageEvenLeftMargin>0.590551</pageEvenLeftMargin>
-      <pageOddLeftMargin>0.590551</pageOddLeftMargin>
-      <pageEvenTopMargin>0.590551</pageEvenTopMargin>
-      <pageEvenBottomMargin>0.590551</pageEvenBottomMargin>
-      <pageOddTopMargin>0.590551</pageOddTopMargin>
-      <pageOddBottomMargin>0.590551</pageOddBottomMargin>
-      <maxSystemDistance>20</maxSystemDistance>
+      <pageWidth>8.5</pageWidth>
+      <pageHeight>11</pageHeight>
+      <pageEvenLeftMargin>0.822835</pageEvenLeftMargin>
       <enableVerticalSpread>1</enableVerticalSpread>
-      <maxSystemSpread>30</maxSystemSpread>
-      <lyricsMinDistance>0.6</lyricsMinDistance>
-      <lyricsDashMaxDistance>10</lyricsDashMaxDistance>
-      <lyricsMelismaPad>0.5</lyricsMelismaPad>
-      <lyricsOddFramePadding>0</lyricsOddFramePadding>
-      <lyricsOddFrameWidth>0</lyricsOddFrameWidth>
-      <lyricsEvenFontStyle>2</lyricsEvenFontStyle>
-      <lyricsEvenFramePadding>0</lyricsEvenFramePadding>
-      <lyricsEvenFrameWidth>0</lyricsEvenFrameWidth>
-      <measureSpacing>1</measureSpacing>
-      <lastSystemFillLimit>0.1</lastSystemFillLimit>
-      <hairpinHeight>1.3</hairpinHeight>
-      <hairpinFramePadding>0</hairpinFramePadding>
-      <hairpinFrameWidth>0</hairpinFrameWidth>
-      <pedalFramePadding>0</pedalFramePadding>
-      <pedalFrameWidth>0</pedalFrameWidth>
-      <harmonyPlay>0</harmonyPlay>
-      <chordSymbolAFramePadding>0</chordSymbolAFramePadding>
-      <chordSymbolAFrameWidth>0</chordSymbolAFrameWidth>
-      <voltaFramePadding>0</voltaFramePadding>
-      <voltaFrameWidth>0</voltaFrameWidth>
-      <ottavaFontSize>12</ottavaFontSize>
-      <ottavaFontStyle>2</ottavaFontStyle>
-      <ottavaFramePadding>0</ottavaFramePadding>
-      <ottavaFrameWidth>0</ottavaFrameWidth>
-      <tupletMaxSlope>0</tupletMaxSlope>
-      <tupletFramePadding>0</tupletFramePadding>
-      <tupletFrameWidth>0</tupletFrameWidth>
-      <textLineFramePadding>0</textLineFramePadding>
-      <textLineFrameWidth>0</textLineFrameWidth>
-      <defaultFontSpatiumDependent>0</defaultFontSpatiumDependent>
-      <defaultAlign>left,baseline</defaultAlign>
-      <defaultFramePadding>0</defaultFramePadding>
-      <defaultFrameWidth>0</defaultFrameWidth>
-      <titleFramePadding>0</titleFramePadding>
-      <titleFrameWidth>0</titleFrameWidth>
-      <subTitleFramePadding>0</subTitleFramePadding>
-      <subTitleFrameWidth>0</subTitleFrameWidth>
-      <composerFramePadding>0</composerFramePadding>
-      <composerFrameWidth>0</composerFrameWidth>
-      <lyricistFramePadding>0</lyricistFramePadding>
-      <lyricistFrameWidth>0</lyricistFrameWidth>
-      <fingeringFramePadding>0</fingeringFramePadding>
-      <fingeringFrameWidth>0</fingeringFrameWidth>
-      <lhGuitarFingeringFramePadding>0</lhGuitarFingeringFramePadding>
-      <lhGuitarFingeringFrameWidth>0</lhGuitarFingeringFrameWidth>
-      <rhGuitarFingeringFramePadding>0</rhGuitarFingeringFramePadding>
-      <rhGuitarFingeringFrameWidth>0</rhGuitarFingeringFrameWidth>
-      <longInstrumentFramePadding>0</longInstrumentFramePadding>
-      <longInstrumentFrameWidth>0</longInstrumentFrameWidth>
-      <shortInstrumentFramePadding>0</shortInstrumentFramePadding>
-      <shortInstrumentFrameWidth>0</shortInstrumentFrameWidth>
-      <partInstrumentFramePadding>0</partInstrumentFramePadding>
-      <partInstrumentFrameWidth>0</partInstrumentFrameWidth>
-      <dynamicsFramePadding>0</dynamicsFramePadding>
-      <dynamicsFrameWidth>0</dynamicsFrameWidth>
-      <expressionFramePadding>0</expressionFramePadding>
-      <expressionFrameWidth>0</expressionFrameWidth>
-      <tempoFramePadding>0</tempoFramePadding>
-      <tempoFrameWidth>0</tempoFrameWidth>
-      <metronomeFramePadding>0</metronomeFramePadding>
-      <metronomeFrameWidth>0</metronomeFrameWidth>
-      <measureNumberFramePadding>0</measureNumberFramePadding>
-      <measureNumberFrameWidth>0</measureNumberFrameWidth>
-      <translatorAlign>center,top</translatorAlign>
-      <translatorFramePadding>0</translatorFramePadding>
-      <translatorFrameWidth>0</translatorFrameWidth>
-      <systemAlign>left,top</systemAlign>
-      <systemFramePadding>0</systemFramePadding>
-      <systemFrameWidth>0</systemFrameWidth>
-      <staffFontSize>8</staffFontSize>
-      <staffFontStyle>2</staffFontStyle>
-      <staffAlign>left,top</staffAlign>
-      <staffFramePadding>0</staffFramePadding>
-      <staffFrameWidth>0</staffFrameWidth>
-      <repeatLeftFramePadding>0</repeatLeftFramePadding>
-      <repeatLeftFrameWidth>0</repeatLeftFrameWidth>
-      <repeatRightFramePadding>0</repeatRightFramePadding>
-      <repeatRightFrameWidth>0</repeatRightFrameWidth>
-      <frameFramePadding>0</frameFramePadding>
-      <frameFrameWidth>0</frameFrameWidth>
-      <glissandoAlign>center,baseline</glissandoAlign>
-      <glissandoFramePadding>0</glissandoFramePadding>
-      <glissandoFrameWidth>0</glissandoFrameWidth>
-      <bendAlign>center,bottom</bendAlign>
-      <bendFramePadding>0</bendFramePadding>
-      <bendFrameWidth>0</bendFrameWidth>
-      <headerAlign>center,top</headerAlign>
-      <headerFramePadding>0</headerFramePadding>
-      <headerFrameWidth>0</headerFrameWidth>
-      <footerAlign>center,bottom</footerAlign>
-      <footerFramePadding>0</footerFramePadding>
-      <footerFrameWidth>0</footerFrameWidth>
-      <instrumentChangeAlign>left,bottom</instrumentChangeAlign>
-      <instrumentChangeFramePadding>0</instrumentChangeFramePadding>
-      <instrumentChangeFrameWidth>0</instrumentChangeFrameWidth>
-      <user1Name>Work Title</user1Name>
-      <user1FontSize>14</user1FontSize>
-      <user1FontSpatiumDependent>0</user1FontSpatiumDependent>
-      <user1Align>center,top</user1Align>
-      <user1FramePadding>0</user1FramePadding>
-      <user1FrameWidth>0</user1FrameWidth>
-      <user2Name>Movement Title</user2Name>
-      <user2FontSize>22</user2FontSize>
-      <user2FontSpatiumDependent>0</user2FontSpatiumDependent>
-      <user2Align>center,top</user2Align>
-      <user2Offset x="0" y="7"/>
-      <user2FramePadding>0</user2FramePadding>
-      <user2FrameWidth>0</user2FrameWidth>
-      <user3Name>Dynamics (Vocal Staff)</user3Name>
-      <user3FontSize>12</user3FontSize>
-      <user3FontStyle>2</user3FontStyle>
-      <user3Align>right,baseline</user3Align>
-      <user3FramePadding>0</user3FramePadding>
-      <user3FrameWidth>0</user3FrameWidth>
-      <Spatium>1.55</Spatium>
+      <Spatium>1.75</Spatium>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q7304</metaTag>
     <metaTag name="annotators">Amelia Brey</metaTag>
-    <metaTag name="arranger">Transcribed by pental from IMSLP #37187.  Source: https://imslp.org/wiki/Special:ReverseLookup/37187</metaTag>
+    <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1904</metaTag>
+    <metaTag name="composed_source">https://mahlerfoundation.org/mahler/compositions/kindertotenlieder/kindertotenlieder-introduction/</metaTag>
     <metaTag name="composed_start">1901</metaTag>
     <metaTag name="composer">Gustav Mahler</metaTag>
     <metaTag name="copyright">OpenScore (CC0)</metaTag>
     <metaTag name="creationDate">2017-06-17</metaTag>
     <metaTag name="harmony_version">2.3.0</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/Kindertotenlieder_(Mahler%2C_Gustav)</metaTag>
     <metaTag name="lyricist">Friedrich Rückert</metaTag>
     <metaTag name="movementNumber">1</metaTag>
     <metaTag name="movementTitle">Nun will die Sonn’ so hell aufgeh’n!</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/57153896-db88-33d6-946f-5c96427b28bf</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/21911</metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="reviewers">DK</metaTag>
     <metaTag name="source">http://musescore.com/user/27638568/scores/5054519</metaTag>
-    <metaTag name="translator">English text by John Bermhoff</metaTag>
+    <metaTag name="translator">John Bernhoff</metaTag>
+    <metaTag name="typesetter">https://musescore.com/user/4887176</metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/177009360/</metaTag>
+    <metaTag name="wikidata">https://www.wikidata.org/wiki/Q589396</metaTag>
     <metaTag name="workNumber"></metaTag>
     <metaTag name="workTitle">Kindertotenlieder</metaTag>
     <Part>
@@ -293,8 +179,16 @@
     <Staff id="1">
       <VBox>
         <height>21</height>
-        <bottomGap>18</bottomGap>
+        <bottomGap>15.9429</bottomGap>
         <boxAutoSize>0</boxAutoSize>
+        <Text>
+          <style>Title</style>
+          <text>1. Nun will die Sonn’ so hell aufgeh’n!</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>from <i>Kindertotenlieder</i></text>
+          </Text>
         <Text>
           <style>Composer</style>
           <offset x="0" y="2.4552"/>
@@ -303,25 +197,9 @@
           </Text>
         <Text>
           <style>Lyricist</style>
-          <offset x="0" y="0.5456"/>
-          <text>Friedrich Rückert
-<i>(English words by John Bernhoff)</i></text>
-          </Text>
-        <Text>
-          <style>User-1</style>
-          <text>Kindertotenlieder</text>
-          </Text>
-        <Text>
-          <style>User-2</style>
-          <offset x="0" y="8.5"/>
-          <text>1. Nun will die Sonn’ so hell aufgeh’n!
-<i><font size="16"></font>(“Once more the sun would gild the morn!”)</i></text>
+          <text>Friedrich Rückert</text>
           </Text>
         </VBox>
-      <HBox>
-        <width>8</width>
-        <boxAutoSize>0</boxAutoSize>
-        </HBox>
       <Measure len="1/4">
         <irregular>1</irregular>
         <voice>
@@ -336,7 +214,6 @@
             <tempo>0.93333299999999997</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 56</text>
             </Tempo>
           <SystemText>
@@ -379,9 +256,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Rest>
             <durationType>half</durationType>
@@ -567,9 +441,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Rest>
             <durationType>half</durationType>
@@ -897,8 +768,13 @@
               <subtype>1</subtype>
               <placement>above</placement>
               <Segment>
-                <subtype>0</subtype>
+                <subtype>1</subtype>
                 <offset x="0" y="-3.73"/>
+                <off2 x="0" y="0"/>
+                </Segment>
+              <Segment>
+                <subtype>3</subtype>
+                <offset x="0" y="-2"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
@@ -960,9 +836,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>page</subtype>
-          </LayoutBreak>
         <voice>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -1151,9 +1024,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Rest>
             <durationType>measure</durationType>
@@ -1186,9 +1056,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Rest>
             <durationType>measure</durationType>
@@ -1373,9 +1240,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -1490,9 +1354,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>page</subtype>
-          </LayoutBreak>
         <voice>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -1898,9 +1759,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -1979,9 +1837,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Rest>
             <durationType>measure</durationType>
@@ -2022,9 +1877,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Rest>
             <durationType>measure</durationType>
@@ -2067,7 +1919,6 @@
             <BeamMode>begin</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
-              <align>left,baseline</align>
               <text>musst</text>
               </Lyrics>
             <Lyrics>
@@ -2292,9 +2143,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>page</subtype>
-          </LayoutBreak>
         <voice>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -2567,9 +2415,6 @@ nicht schleppend</text>
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -2603,11 +2448,6 @@ nicht schleppend</text>
               <subtype>0</subtype>
               <veloChange>30</veloChange>
               <placement>above</placement>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="-1.55886" y="-2.728"/>
-                <off2 x="1.55886" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -2869,10 +2709,6 @@ nicht schleppend</text>
           </voice>
         </Measure>
       <Measure>
-        <vspacerFixed>14.7812</vspacerFixed>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <SystemText>
             <style>Tempo</style>
@@ -2903,7 +2739,6 @@ nicht schleppend</text>
             <tempo>1.1666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 70</text>
             </Tempo>
           <Rest>
@@ -2939,9 +2774,6 @@ nicht schleppend</text>
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Rest>
             <durationType>measure</durationType>
@@ -2955,304 +2787,37 @@ nicht schleppend</text>
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
-          <location>
-            <fractions>-1/2</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.1666666666666667</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 70</text>
-            </Tempo>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.1583300000000001</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 69.5</text>
-            </Tempo>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.1499999999999999</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 69</text>
-            </Tempo>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.14167</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 68.5</text>
-            </Tempo>
           </voice>
         </Measure>
       <Measure>
         <voice>
-          <Tempo>
-            <tempo>1.1666700000000001</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 70</text>
-            </Tempo>
           <Rest>
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
-          <location>
-            <fractions>-7/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.16333</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 69.8</text>
-            </Tempo>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.1599999999999999</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 69.6</text>
-            </Tempo>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.155</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 69.3</text>
-            </Tempo>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.15167</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 69.1</text>
-            </Tempo>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.1483300000000001</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 68.9</text>
-            </Tempo>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.145</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 68.7</text>
-            </Tempo>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.14167</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 68.5</text>
-            </Tempo>
           </voice>
         </Measure>
       <Measure>
         <voice>
-          <Tempo>
-            <tempo>1.1383300000000001</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 68.3</text>
-            </Tempo>
           <Rest>
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
-          <location>
-            <fractions>-7/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.1333299999999999</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 68</text>
-            </Tempo>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.1299999999999999</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 67.8</text>
-            </Tempo>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.1266700000000001</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 67.6</text>
-            </Tempo>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.1233299999999999</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 67.4</text>
-            </Tempo>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.1200000000000001</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 67.2</text>
-            </Tempo>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.115</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <offset x="-2.07643" y="-1.16943"/>
-            <text><sym>metNoteQuarterUp</sym> = 66.9</text>
-            </Tempo>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.1116666666666668</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <minDistance>0.28697</minDistance>
-            <size>10</size>
-            <offset x="0.461429" y="-0.569569"/>
-            <text><sym>metNoteQuarterUp</sym> = 66.7</text>
-            </Tempo>
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>page</subtype>
-          </LayoutBreak>
         <voice>
-          <Tempo>
-            <tempo>1.10833</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 66.5</text>
-            </Tempo>
           <Rest>
             <durationType>half</durationType>
             </Rest>
-          <location>
-            <fractions>-3/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.105</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 66.3</text>
-            </Tempo>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.1016699999999999</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 66.1</text>
-            </Tempo>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.09667</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 65.8</text>
-            </Tempo>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.0933299999999999</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 65.6</text>
-            </Tempo>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.0900000000000001</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 65.4</text>
-            </Tempo>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
             <placement>above</placement>
             </Dynamic>
-          <Tempo>
-            <tempo>1.08667</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 65.2</text>
-            </Tempo>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>quarter</durationType>
@@ -3269,18 +2834,6 @@ nicht schleppend</text>
               </Note>
             </Chord>
           </voice>
-        <voice>
-          <location>
-            <fractions>7/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.0833299999999999</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 65</text>
-            </Tempo>
-          </voice>
         </Measure>
       <Measure>
         <voice>
@@ -3289,13 +2842,6 @@ nicht schleppend</text>
             <text>ritornare al Tempo I.
 zum Tempo I. zurückkehrend</text>
             </StaffText>
-          <Tempo>
-            <tempo>1.0800000000000001</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 64.8</text>
-            </Tempo>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
@@ -3322,13 +2868,6 @@ zum Tempo I. zurückkehrend</text>
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Tempo>
-            <tempo>1.075</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 64.5</text>
-            </Tempo>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -3349,13 +2888,6 @@ zum Tempo I. zurückkehrend</text>
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <Tempo>
-            <tempo>1.0716699999999999</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 64.3</text>
-            </Tempo>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>half</durationType>
@@ -3372,36 +2904,6 @@ zum Tempo I. zurückkehrend</text>
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-3/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.06833</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 64.1</text>
-            </Tempo>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.0649999999999999</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 63.9</text>
-            </Tempo>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.05667</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 63.4</text>
-            </Tempo>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>quarter</durationType>
@@ -3418,16 +2920,6 @@ zum Tempo I. zurückkehrend</text>
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.0533300000000001</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 63.2</text>
-            </Tempo>
           </voice>
         <voice>
           <Chord>
@@ -3463,13 +2955,6 @@ zum Tempo I. zurückkehrend</text>
         </Measure>
       <Measure>
         <voice>
-          <Tempo>
-            <tempo>1.05</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 63</text>
-            </Tempo>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
@@ -3487,9 +2972,6 @@ zum Tempo I. zurückkehrend</text>
               </Lyrics>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="0" y="0.389714"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -3502,13 +2984,6 @@ zum Tempo I. zurückkehrend</text>
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Tempo>
-            <tempo>1.04667</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 62.8</text>
-            </Tempo>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
@@ -3529,13 +3004,6 @@ zum Tempo I. zurückkehrend</text>
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Tempo>
-            <tempo>1.0433300000000001</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 62.6</text>
-            </Tempo>
           <Chord>
             <durationType>half</durationType>
             <Spanner type="Slur">
@@ -3561,36 +3029,6 @@ zum Tempo I. zurückkehrend</text>
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-3/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.03833</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 62.3</text>
-            </Tempo>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.0349999999999999</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 62.1</text>
-            </Tempo>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.02833</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 61.7</text>
-            </Tempo>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>quarter</durationType>
@@ -3606,27 +3044,10 @@ zum Tempo I. zurückkehrend</text>
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.0249999999999999</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 61.5</text>
-            </Tempo>
           </voice>
         </Measure>
       <Measure>
         <voice>
-          <Tempo>
-            <tempo>1.0216700000000001</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 61.3</text>
-            </Tempo>
           <Chord>
             <BeamMode>begin</BeamMode>
             <dots>1</dots>
@@ -3644,46 +3065,6 @@ zum Tempo I. zurückkehrend</text>
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/2</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.0133300000000001</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 60.8</text>
-            </Tempo>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.01</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 60.6</text>
-            </Tempo>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.00667</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 60.4</text>
-            </Tempo>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
-          <Tempo>
-            <tempo>0.99833300000000003</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 59.9</text>
-            </Tempo>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>quarter</durationType>
@@ -3701,31 +3082,11 @@ zum Tempo I. zurückkehrend</text>
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>0.995</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 59.7</text>
-            </Tempo>
           </voice>
         </Measure>
       <Measure>
         <vspacerFixed>10.0715</vspacerFixed>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
-          <Tempo>
-            <tempo>0.99166699999999997</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 59.5</text>
-            </Tempo>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>whole</durationType>
@@ -3742,141 +3103,14 @@ zum Tempo I. zurückkehrend</text>
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-7/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>0.98833300000000002</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 59.3</text>
-            </Tempo>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>0.98499999999999999</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 59.1</text>
-            </Tempo>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>0.97999999999999998</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 58.8</text>
-            </Tempo>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>0.97666699999999995</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 58.6</text>
-            </Tempo>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>0.973333</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 58.4</text>
-            </Tempo>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>0.96999999999999997</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 58.2</text>
-            </Tempo>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>0.96666700000000005</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 58</text>
-            </Tempo>
           </voice>
         </Measure>
       <Measure>
         <voice>
-          <Tempo>
-            <tempo>0.96333299999999999</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 57.8</text>
-            </Tempo>
           <Rest>
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
-          <location>
-            <fractions>-7/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>0.95833299999999999</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 57.5</text>
-            </Tempo>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>0.95499999999999996</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 57.3</text>
-            </Tempo>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>0.95166700000000004</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 57.1</text>
-            </Tempo>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Tempo>
-            <tempo>0.94833299999999998</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 56.9</text>
-            </Tempo>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
-          <Tempo>
-            <tempo>0.93999999999999995</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><sym>metNoteQuarterUp</sym> = 56.4</text>
-            </Tempo>
           </voice>
         </Measure>
       <Measure>
@@ -3889,7 +3123,6 @@ zum Tempo I. zurückkehrend</text>
             <tempo>0.93333299999999997</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 56</text>
             </Tempo>
           <Rest>
@@ -3963,9 +3196,6 @@ mit Erschütterung</text>
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Dynamic>
             <subtype>p</subtype>
@@ -4264,9 +3494,6 @@ mit Erschütterung</text>
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Rest>
             <durationType>half</durationType>
@@ -4508,11 +3735,6 @@ mit Erschütterung</text>
             <HairPin>
               <subtype>0</subtype>
               <placement>above</placement>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="-1.94857"/>
-                <off2 x="2.33829" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -4575,11 +3797,6 @@ mit Erschütterung</text>
             <HairPin>
               <subtype>1</subtype>
               <placement>above</placement>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="-1.94857"/>
-                <off2 x="1.55886" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -4647,12 +3864,6 @@ mit Erschütterung</text>
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>section</subtype>
-          </LayoutBreak>
-        <LayoutBreak>
-          <subtype>page</subtype>
-          </LayoutBreak>
         <voice>
           <Fermata>
             <subtype>fermataAbove</subtype>
@@ -5394,12 +4605,9 @@ mit Erschütterung</text>
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o1 x="0" y="-4.98834"/>
-                  <o2 x="-0.311771" y="-0.389714"/>
-                  <o3 x="-0.311771" y="-0.389714"/>
-                  <o4 x="0" y="0.857371"/>
-                  <offset x="0" y="-1.40297"/>
+                  <o1 x="0.854521" y="-0.106815"/>
                   </SlurSegment>
+                <up>down</up>
                 </Slur>
               <next>
                 <location>
@@ -6317,9 +5525,6 @@ mit Erschütterung</text>
                     <o3 x="0" y="0.155886"/>
                     <o4 x="0" y="0.233829"/>
                     </TieSegment>
-                  <TieSegment no="1">
-                    <o1 x="-0.857371" y="0"/>
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -6333,11 +5538,6 @@ mit Erschütterung</text>
             <Note>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="1">
-                    <o1 x="-0.701486" y="0"/>
-                    <o4 x="-1.0912" y="0"/>
-                    <offset x="0" y="-0.155886"/>
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -6650,7 +5850,6 @@ mit Erschütterung</text>
           </voice>
         </Measure>
       <Measure>
-        <vspacerUp>1.55886</vspacerUp>
         <voice>
           <Chord>
             <durationType>quarter</durationType>
@@ -7090,11 +6289,6 @@ mit Erschütterung</text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o2 x="0" y="-0.3"/>
-                  <o3 x="0" y="-0.3"/>
-                  <offset x="0" y="-0.5"/>
-                  </SlurSegment>
                 <up>down</up>
                 </Slur>
               <next>
@@ -7209,10 +6403,6 @@ mit Erschütterung</text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="-0.5" y="1"/>
-                  <offset x="0" y="0.3"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -7324,8 +6514,8 @@ heftiger</text>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="0" y="-1.94857"/>
+                <SlurSegment no="1">
+                  <o1 x="0" y="-1.72588"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -7338,6 +6528,7 @@ heftiger</text>
             <Articulation>
               <subtype>articAccentAbove</subtype>
               </Articulation>
+            <StemDirection>up</StemDirection>
             <Note>
               <Accidental>
                 <subtype>accidentalNatural</subtype>
@@ -7353,13 +6544,12 @@ heftiger</text>
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o1 x="0" y="3.11771"/>
-                  <o2 x="0" y="5.456"/>
-                  <o3 x="0" y="-1.16914"/>
-                  <o4 x="0" y="0.233829"/>
-                  <autoplace>0</autoplace>
-                  <offset x="0" y="-0.5456"/>
+                  <o1 x="-0.151302" y="3.78254"/>
+                  <o2 x="0.453905" y="3.78254"/>
+                  <o3 x="0.453905" y="3.78254"/>
+                  <o4 x="0" y="3.47994"/>
                   </SlurSegment>
+                <up>up</up>
                 </Slur>
               <next>
                 <location>
@@ -7420,11 +6610,6 @@ heftiger</text>
             <HairPin>
               <subtype>0</subtype>
               <veloChange>20</veloChange>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0.779429" y="2.728"/>
-                <off2 x="-0.779429" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -8072,11 +7257,6 @@ heftiger</text>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="1">
-                  <o1 x="-0.233829" y="0"/>
-                  <o4 x="-0.467657" y="0"/>
-                  <offset x="0" y="-3.50743"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -8131,10 +7311,6 @@ heftiger</text>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o2 x="-1.87063" y="0"/>
-                  <o3 x="2.10446" y="0"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -8379,9 +7555,6 @@ heftiger</text>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="1">
-                  <o4 x="0" y="0.623543"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -8464,9 +7637,6 @@ sehr ausdrucksvoll</text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="0" y="-1.32503"/>
-                  </SlurSegment>
                 <up>up</up>
                 </Slur>
               <next>
@@ -8564,14 +7734,6 @@ sehr ausdrucksvoll</text>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="0" y="1.6368"/>
-                  <o2 x="-9.51176e-18" y="1.32503"/>
-                  <o3 x="-9.51176e-18" y="1.32503"/>
-                  </SlurSegment>
-                <SlurSegment no="1">
-                  <o1 x="0" y="0.623543"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -8643,8 +7805,8 @@ sehr ausdrucksvoll</text>
         <voice>
           <Beam>
             <Fragment>
-              <y1>-3.08</y1>
-              <y2>-2.86</y2>
+              <y1>-2.728</y1>
+              <y2>-2.53314</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -8688,8 +7850,8 @@ sehr ausdrucksvoll</text>
             </Chord>
           <Beam>
             <Fragment>
-              <y1>-2.42</y1>
-              <y2>-2.2</y2>
+              <y1>-2.14343</y1>
+              <y2>-1.94857</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -8923,11 +8085,6 @@ sehr ausdrucksvoll</text>
               <subtype>0</subtype>
               <veloChange>30</veloChange>
               <dynType>0</dynType>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="2.728"/>
-                <off2 x="-1.55886" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -8992,11 +8149,6 @@ sehr ausdrucksvoll</text>
               <subtype>1</subtype>
               <veloChange>30</veloChange>
               <dynType>0</dynType>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="3.328"/>
-                <off2 x="-1.7113" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -9376,11 +8528,6 @@ sehr ausdrucksvoll</text>
               <subtype>0</subtype>
               <veloChange>10</veloChange>
               <dynType>0</dynType>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="2.728"/>
-                <off2 x="-0.389714" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -9426,11 +8573,6 @@ sehr ausdrucksvoll</text>
               <subtype>1</subtype>
               <veloChange>10</veloChange>
               <dynType>0</dynType>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="2.728"/>
-                <off2 x="-0.779429" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -9481,11 +8623,6 @@ sehr ausdrucksvoll</text>
               <subtype>0</subtype>
               <veloChange>10</veloChange>
               <dynType>0</dynType>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="2.728"/>
-                <off2 x="-0.389714" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -9528,11 +8665,6 @@ sehr ausdrucksvoll</text>
               <subtype>1</subtype>
               <veloChange>10</veloChange>
               <dynType>0</dynType>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0.389714" y="2.728"/>
-                <off2 x="-1.16914" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -10106,12 +9238,6 @@ sehr ausdrucksvoll</text>
             <HairPin>
               <subtype>1</subtype>
               <veloChange>10</veloChange>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="4.37509"/>
-                <off2 x="-0.779429" y="0"/>
-                <autoplace>0</autoplace>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -10851,7 +9977,6 @@ sehr ausdrucksvoll</text>
           </voice>
         </Measure>
       <Measure>
-        <vspacerFixed>5.55551</vspacerFixed>
         <voice>
           <Chord>
             <durationType>half</durationType>
@@ -10928,9 +10053,6 @@ sehr ausdrucksvoll</text>
             <durationType>half</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="0.136882" y="-1.30038"/>
-                  </SlurSegment>
                 <up>up</up>
                 </Slur>
               <next>
@@ -11151,12 +10273,7 @@ sehr ausdrucksvoll</text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="0" y="-5.76777"/>
-                  <o2 x="0" y="-1.01326"/>
-                  <o3 x="0" y="-3.58091e-17"/>
-                  <offset x="0" y="-0.779429"/>
-                  </SlurSegment>
+                <up>down</up>
                 </Slur>
               <next>
                 <location>
@@ -12087,11 +11204,8 @@ sehr ausdrucksvoll</text>
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o1 x="0" y="4.28686"/>
-                  <o2 x="0" y="1.0912"/>
-                  <o3 x="0" y="1.0912"/>
-                  <o4 x="0" y="-1.55886"/>
-                  <offset x="0" y="0.5456"/>
+                  <o1 x="-0.356732" y="4.49483"/>
+                  <o4 x="0" y="-2.21174"/>
                   </SlurSegment>
                 <up>down</up>
                 </Slur>
@@ -13749,14 +12863,6 @@ sehr ausdrucksvoll</text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="0" y="2.80594"/>
-                  <o2 x="-1.3982" y="2.23463"/>
-                  <o3 x="-1.32026" y="2.23463"/>
-                  <o4 x="0" y="-2.20297"/>
-                  <autoplace>0</autoplace>
-                  <offset x="0" y="2.59269"/>
-                  </SlurSegment>
                 <up>down</up>
                 </Slur>
               <next>
@@ -14065,14 +13171,6 @@ sehr ausdrucksvoll</text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="0" y="1.94857"/>
-                  <o2 x="-2.01474" y="1.9368"/>
-                  <o3 x="0" y="1.78091"/>
-                  <o4 x="0" y="-0.155886"/>
-                  <autoplace>0</autoplace>
-                  <offset x="0" y="0.789714"/>
-                  </SlurSegment>
                 <up>down</up>
                 </Slur>
               <next>
@@ -14238,8 +13336,8 @@ sehr ausdrucksvoll</text>
             </Harmony>
           <Beam>
             <Fragment>
-              <y1>-2.79098</y1>
-              <y2>-3.67098</y2>
+              <y1>-2.47201</y1>
+              <y2>-3.25144</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -14247,12 +13345,7 @@ sehr ausdrucksvoll</text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="0" y="-4.59863"/>
-                  <o2 x="0" y="-0.5456"/>
-                  <o3 x="0" y="-3.58091e-17"/>
-                  <offset x="0" y="-0.779429"/>
-                  </SlurSegment>
+                <up>down</up>
                 </Slur>
               <next>
                 <location>
@@ -14432,7 +13525,7 @@ sehr ausdrucksvoll</text>
             <name>V7/V</name>
             </Harmony>
           <Chord>
-            <offset x="0.44" y="0"/>
+            <offset x="0.389714" y="0"/>
             <durationType>quarter</durationType>
             <Stem>
               <userLen>-0.623543</userLen>
@@ -14574,12 +13667,6 @@ sehr ausdrucksvoll</text>
             <durationType>half</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="0.623543" y="0.311771"/>
-                  <o2 x="-6.15469e-18" y="0.5456"/>
-                  <o3 x="-6.15469e-18" y="0.5456"/>
-                  <o4 x="-0.779429" y="0.389714"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -14704,7 +13791,7 @@ sehr ausdrucksvoll</text>
           </voice>
         <voice>
           <Chord>
-            <offset x="0.264" y="0"/>
+            <offset x="0.233829" y="0"/>
             <dots>1</dots>
             <durationType>half</durationType>
             <Spanner type="Slur">
@@ -15451,7 +14538,6 @@ sehr ausdrucksvoll</text>
           </voice>
         </Measure>
       <Measure>
-        <vspacerDown>10.7804</vspacerDown>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -15461,17 +14547,6 @@ sehr ausdrucksvoll</text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="1.3" y="-0.6"/>
-                  <o2 x="8.50466e-17" y="0.335314"/>
-                  <o3 x="8.50466e-17" y="0.880914"/>
-                  <o4 x="0" y="-1.5"/>
-                  <autoplace>0</autoplace>
-                  </SlurSegment>
-                <SlurSegment no="1">
-                  <o1 x="-1.55886" y="-5.456"/>
-                  <o4 x="-0.0698487" y="-5.96453"/>
-                  </SlurSegment>
                 <up>down</up>
                 </Slur>
               <next>
@@ -15512,8 +14587,8 @@ sehr ausdrucksvoll</text>
             </Chord>
           <Beam>
             <Fragment>
-              <y1>-3.0795</y1>
-              <y2>-4.3995</y2>
+              <y1>-2.72756</y1>
+              <y2>-3.8967</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -15594,7 +14669,7 @@ sehr ausdrucksvoll</text>
                   <o1 x="0" y="-0.467657"/>
                   <o2 x="0.779429" y="0.0779429"/>
                   <o3 x="0.779429" y="0.0779429"/>
-                  <o4 x="0" y="3.42949"/>
+                  <o4 x="0.266704" y="2.76273"/>
                   <offset x="0" y="0.623543"/>
                   </SlurSegment>
                 <up>down</up>
@@ -15655,7 +14730,8 @@ sehr ausdrucksvoll</text>
               </Spanner>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
+                <SlurSegment no="1">
+                  <o1 x="-0.800113" y="-2.53369"/>
                   <o4 x="-0.935314" y="-2.57211"/>
                   </SlurSegment>
                 <up>down</up>
@@ -16105,10 +15181,6 @@ sehr ausdrucksvoll</text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o2 x="1.39879e-18" y="-0.467657"/>
-                  <o3 x="1.39879e-18" y="-0.467657"/>
-                  </SlurSegment>
                 <up>up</up>
                 </Slur>
               <next>
@@ -16582,7 +15654,6 @@ sehr ausdrucksvoll</text>
           </voice>
         </Measure>
       <Measure>
-        <vspacerDown>10.2804</vspacerDown>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -16792,13 +15863,6 @@ sehr ausdrucksvoll</text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="0" y="2.10446"/>
-                  <o2 x="-3" y="2.16914"/>
-                  <o3 x="-3" y="2.16914"/>
-                  <o4 x="0" y="0.467657"/>
-                  <autoplace>0</autoplace>
-                  </SlurSegment>
                 <up>down</up>
                 </Slur>
               <next>
@@ -16901,13 +15965,6 @@ sehr ausdrucksvoll</text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="0" y="1.94857"/>
-                  <o2 x="-3.1" y="2.16914"/>
-                  <o3 x="-3.1" y="2.16914"/>
-                  <autoplace>0</autoplace>
-                  <offset x="0" y="0.389714"/>
-                  </SlurSegment>
                 <up>down</up>
                 </Slur>
               <next>
@@ -17156,8 +16213,8 @@ sehr ausdrucksvoll</text>
             </Harmony>
           <Beam>
             <Fragment>
-              <y1>-3.89302</y1>
-              <y2>-4.11302</y2>
+              <y1>-3.4481</y1>
+              <y2>-3.64296</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -17560,10 +16617,10 @@ sehr ausdrucksvoll</text>
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o1 x="0.623543" y="-0.155886"/>
-                  <o4 x="0" y="4.64126"/>
+                  <o1 x="0.548486" y="-3.98382"/>
+                  <o4 x="-0.975747" y="1.33873"/>
                   </SlurSegment>
-                <up>down</up>
+                <up>up</up>
                 </Slur>
               <next>
                 <location>
@@ -17705,11 +16762,6 @@ sehr ausdrucksvoll</text>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="1.16914"/>
-                <off2 x="1.55886" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -17819,13 +16871,6 @@ sehr ausdrucksvoll</text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="-2.33829" y="-0.857371"/>
-                  <o2 x="-3.03977" y="1.60297"/>
-                  <o3 x="-6.31713e-19" y="0.433829"/>
-                  <autoplace>0</autoplace>
-                  <offset x="0" y="0.0779429"/>
-                  </SlurSegment>
                 <up>down</up>
                 </Slur>
               <next>
