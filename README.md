@@ -26,9 +26,7 @@ illustrate a connection between 19th- and 20th-century styles represented elsewh
 
 ## Scores
 
-Piano scores downloaded from the wonderful [OpenScore Lieder](https://musescore.com/user/27638568/sets/5051725) project.
-
-
+These piano scores were downloaded from the wonderful [OpenScore Lieder](https://musescore.com/user/27638568/sets/5051725) project. They correspond to the ca.1911 Universal Edition printing of the vocal score. Staff spacing, paginations, and margins were modified to improve the readability of the annotations. 
 
 ## Overview
 |                file_name                |measures|labels|standard|annotators |reviewers|
