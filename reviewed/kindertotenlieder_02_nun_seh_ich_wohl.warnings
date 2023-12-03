@@ -1,0 +1,63 @@
+Warnings encountered during the last execution of ms3 review
+============================================================
+
+WARNING  ms3.Parse.mahler_kindertotenlieder.kindertotenlieder_02_nun_seh_ich_wohl
+	mc 42: The missing value in 'vspacerFixed' was replaced by '5.78307', present in 'staff' [2].
+WARNING  ms3.Parse.mahler_kindertotenlieder.kindertotenlieder_02_nun_seh_ich_wohl
+	mc 66: The missing value in 'vspacerFixed' was replaced by '8.18246', present in 'staff' [2].
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 9, '3/4', 'IV6') ms3.Parse.mahler_kindertotenlieder.kindertotenlieder_02_nun_seh_ich_wohl
+	The label 'IV6' in m. 9, onset 3/4 (MC 9, onset 3/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of c.i, it expresses the scale degrees
+	('#6', '1', '4') [('A', 'C', 'F')].
+	The corresponding score segment has 2 within-label and 5 out-of-label note onsets,
+	a ratio of 0.7142857142857143 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 34, '0', 'V[V64') ms3.Parse.mahler_kindertotenlieder.kindertotenlieder_02_nun_seh_ich_wohl
+	The label 'V[V64' in m. 34, onset 0 (MC 34, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of c.I, it expresses the scale degrees
+	('2', '5', '7') [('D', 'G', 'B')].
+	The corresponding score segment has 4 within-label and 7 out-of-label note onsets,
+	a ratio of 0.6363636363636364 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 37, '1', 'Ger6/IV') ms3.Parse.mahler_kindertotenlieder.kindertotenlieder_02_nun_seh_ich_wohl
+	The label 'Ger6/IV' in m. 37, onset 1 (MC 37, onset 1) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of c.I, it expresses the scale degrees
+	('b2', '4', 'b6', '7') [('Db', 'F', 'Ab', 'B')].
+	The corresponding score segment has 1 within-label and 6 out-of-label note onsets,
+	a ratio of 0.8571428571428571 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 53, '1/4', 'V7/bII') ms3.Parse.mahler_kindertotenlieder.kindertotenlieder_02_nun_seh_ich_wohl
+	The label 'V7/bII' in m. 53, onset 1/4 (MC 53, onset 1/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of c.v, it expresses the scale degrees
+	('6', '1', '3', 'b5') [('Eb', 'G', 'Bb', 'Db')].
+	The corresponding score segment has 0 within-label and 2 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 53, '3/4', 'V2/bII') ms3.Parse.mahler_kindertotenlieder.kindertotenlieder_02_nun_seh_ich_wohl
+	The label 'V2/bII' in m. 53, onset 3/4 (MC 53, onset 3/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of c.v, it expresses the scale degrees
+	('b5', '6', '1', '3') [('Db', 'Eb', 'G', 'Bb')].
+	The corresponding score segment has 0 within-label and 2 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 54, '0', 'bII+6') ms3.Parse.mahler_kindertotenlieder.kindertotenlieder_02_nun_seh_ich_wohl
+	The label 'bII+6' in m. 54, onset 0 (MC 54, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of c.v, it expresses the scale degrees
+	('4', '#6', 'b2') [('C', 'E', 'Ab')].
+	The corresponding score segment has 1 within-label and 13 out-of-label note onsets,
+	a ratio of 0.9285714285714286 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 57, '0', 'VI/VI') ms3.Parse.mahler_kindertotenlieder.kindertotenlieder_02_nun_seh_ich_wohl
+	The label 'VI/VI' in m. 57, onset 0 (MC 57, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of c.v, it expresses the scale degrees
+	('4', '#6', '1') [('C', 'E', 'G')].
+	The corresponding score segment has 0 within-label and 12 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
