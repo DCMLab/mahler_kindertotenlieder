@@ -12,4 +12,4 @@ Piano scores downloaded from the wonderful [OpenScore Lieder](https://musescore.
 |kindertotenlieder_05_in_diesem_wetter    |     139|   149|2.3.0   |Amelia Brey|ST       |
 
 
-*Overview table automatically updated using [ms3](https://johentsch.github.io/ms3/).*
+*Overview table automatically updated using [ms3](https://ms3.readthedocs.io/).*
