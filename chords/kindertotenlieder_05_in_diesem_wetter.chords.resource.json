@@ -186,6 +186,14 @@
         "type": "string"
       },
       {
+        "name": "Ottava:8vb",
+        "type": "string"
+      },
+      {
+        "name": "Ottava:8va",
+        "type": "string"
+      },
+      {
         "name": "pedal",
         "title": "Pedal Point",
         "description": "Specified as Roman numeral.",
@@ -196,29 +204,21 @@
         "type": "string"
       },
       {
+        "name": "decrescendo_hairpin",
+        "type": "string"
+      },
+      {
         "name": "crescendo_line",
         "type": "string"
       },
       {
         "name": "crescendo_hairpin",
         "type": "string"
-      },
-      {
-        "name": "decrescendo_hairpin",
-        "type": "string"
-      },
-      {
-        "name": "Ottava:8vb",
-        "type": "string"
-      },
-      {
-        "name": "Ottava:8va",
-        "type": "string"
       }
     ],
     "facet": "chords",
-    "identifier": "aBFk1rogSqmCMg",
-    "filepath": "chords/aBFk1rogSqmCMg.schema.yaml",
+    "identifier": "kgVJkm93iCwKgQ",
+    "filepath": "chords/kgVJkm93iCwKgQ.schema.yaml",
     "used_in": "kindertotenlieder_05_in_diesem_wetter"
   },
   "creator": {
@@ -231,8 +231,8 @@
       "name": "Johannes Hentschel",
       "@id": "https://orcid.org/0000-0002-1986-9545"
     },
-    "softwareVersion": "2.4.1"
+    "softwareVersion": "2.5.3"
   },
-  "git_revision": "f4bdd0b5519c47999fcba5ed980fb2b36635625a",
-  "git_tag": "v2.1-5-gf4bdd0b"
+  "git_revision": "6798050ab908cc33283176de493cc3c3f7f3c828",
+  "git_tag": "v2.2"
 }

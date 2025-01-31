@@ -1,10 +1,10 @@
 Warnings encountered during the last execution of ms3 review
 ============================================================
 
-WARNING  ms3.Parse.mahler_kindertotenlieder.kindertotenlieder_02_nun_seh_ich_wohl
-	mc 42: The missing value in 'vspacerFixed' was replaced by '5.78307', present in 'staff' [2].
-WARNING  ms3.Parse.mahler_kindertotenlieder.kindertotenlieder_02_nun_seh_ich_wohl
-	mc 66: The missing value in 'vspacerFixed' was replaced by '8.18246', present in 'staff' [2].
+COMPETING_MEASURE_INFO_WARNING (9, 'mc', 42, 'vspacerFixed') ms3.Parse.mahler_kindertotenlieder.kindertotenlieder_02_nun_seh_ich_wohl
+	mc 42: The missing value in 'vspacerFixed' was filled with '5.78307', present in 'staff' [2]. In rare cases, this may lead to incorrect values in the measures table because it ambiguous which staff contains the relevant information.
+COMPETING_MEASURE_INFO_WARNING (9, 'mc', 66, 'vspacerFixed') ms3.Parse.mahler_kindertotenlieder.kindertotenlieder_02_nun_seh_ich_wohl
+	mc 66: The missing value in 'vspacerFixed' was filled with '8.18246', present in 'staff' [2]. In rare cases, this may lead to incorrect values in the measures table because it ambiguous which staff contains the relevant information.
 DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 9, '3/4', 'IV6') ms3.Parse.mahler_kindertotenlieder.kindertotenlieder_02_nun_seh_ich_wohl
 	The label 'IV6' in m. 9, onset 3/4 (MC 9, onset 3/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
 	In the context of c.i, it expresses the scale degrees

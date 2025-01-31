@@ -26,7 +26,7 @@
     <metaTag name="P86 (composer)">Q7304</metaTag>
     <metaTag name="annotators">Amelia Brey</metaTag>
     <metaTag name="arranger"></metaTag>
-    <metaTag name="compared_against">v2.1</metaTag>
+    <metaTag name="compared_against">LATEST_VERSION</metaTag>
     <metaTag name="composed_end">1904</metaTag>
     <metaTag name="composed_source">https://mahlerfoundation.org/mahler/compositions/kindertotenlieder/kindertotenlieder-introduction/</metaTag>
     <metaTag name="composed_start">1901</metaTag>

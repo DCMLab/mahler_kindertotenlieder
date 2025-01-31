@@ -1,10 +1,10 @@
 Warnings encountered during the last execution of ms3 review
 ============================================================
 
-WARNING  ms3.Parse.mahler_kindertotenlieder.kindertotenlieder_03_wenn_dein_mutterlein
-	mc 51: The missing value in 'voice/BarLine/autoplace' was replaced by '0', present in 'staff' [2].
-WARNING  ms3.Parse.mahler_kindertotenlieder.kindertotenlieder_03_wenn_dein_mutterlein
-	mc 51: The missing value in 'voice/BarLine/spanToOffset' was replaced by '7', present in 'staff' [2].
+COMPETING_MEASURE_INFO_WARNING (9, 'mc', 51, 'voice/BarLine/autoplace') ms3.Parse.mahler_kindertotenlieder.kindertotenlieder_03_wenn_dein_mutterlein
+	mc 51: The missing value in 'voice/BarLine/autoplace' was filled with '0', present in 'staff' [2]. In rare cases, this may lead to incorrect values in the measures table because it ambiguous which staff contains the relevant information.
+COMPETING_MEASURE_INFO_WARNING (9, 'mc', 51, 'voice/BarLine/spanToOffset') ms3.Parse.mahler_kindertotenlieder.kindertotenlieder_03_wenn_dein_mutterlein
+	mc 51: The missing value in 'voice/BarLine/spanToOffset' was filled with '7', present in 'staff' [2]. In rare cases, this may lead to incorrect values in the measures table because it ambiguous which staff contains the relevant information.
 DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.mahler_kindertotenlieder.kindertotenlieder_03_wenn_dein_mutterlein
 	Phrase beginning and endings don't match:
 	mn_playthrough phraseend mn_playthrough phraseend
