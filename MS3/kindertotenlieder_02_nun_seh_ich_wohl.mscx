@@ -13653,7 +13653,7 @@ fliessend</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/bII</name>
+            <name>V7/VI</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -13680,7 +13680,7 @@ fliessend</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2/bII</name>
+            <name>V2/VI</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
