@@ -12277,7 +12277,7 @@ fliessend</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V[V64</name>
+            <name>V[I64</name>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
