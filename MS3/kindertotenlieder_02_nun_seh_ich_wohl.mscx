@@ -13956,7 +13956,7 @@ fliessend</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI/VI</name>
+            <name>I.</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -13977,6 +13977,10 @@ fliessend</text>
               <tpc>7</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>vi7</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -14033,7 +14037,7 @@ fliessend</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I.iii64</name>
+            <name>iii64</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
