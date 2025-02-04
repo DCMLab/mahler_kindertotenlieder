@@ -4,3 +4,6 @@ DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 51, '1/4', 'ii%7') ms3.Parse.m
 
 DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 71, '1/2', 'ii%65') ms3.Parse.mahler_kindertotenlieder.kindertotenlieder_01_nun_will_die_sonn
 	The label 'ii%65' in m. 70, onset 1/2 (MC 71, onset 1/2) is plausible when considering the last quarter beat is taken as a big passing chord.
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 37, '1', 'Ger6/IV') ms3.Parse.mahler_kindertotenlieder.kindertotenlieder_02_nun_seh_ich_wohl
+	The label 'Ger6/IV' in m. 37, onset 1 (MC 37, onset 1) is correct 
