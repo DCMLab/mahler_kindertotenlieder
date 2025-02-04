@@ -6548,6 +6548,7 @@ heftiger</text>
                   <o2 x="0.453905" y="3.78254"/>
                   <o3 x="0.453905" y="3.78254"/>
                   <o4 x="0" y="3.47994"/>
+                  <offset x="0" y="-0.613491"/>
                   </SlurSegment>
                 <up>up</up>
                 </Slur>
@@ -15446,7 +15447,7 @@ sehr ausdrucksvoll</text>
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v</name>
+            <name>v(b5^2)</name>
             <offset x="14.3341" y="3.44671"/>
             </Harmony>
           <Chord>
