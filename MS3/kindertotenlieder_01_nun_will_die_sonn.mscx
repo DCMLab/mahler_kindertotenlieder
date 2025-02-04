@@ -14659,7 +14659,8 @@ sehr ausdrucksvoll</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(6b5)</name>
+            <name>V65(4)/VI</name>
+            <offset x="-0.204497" y="7.23241"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
