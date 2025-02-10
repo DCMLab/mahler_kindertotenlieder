@@ -2173,7 +2173,6 @@ Schlicht, aber warm</text>
             </StaffText>
           <StaffText>
             <style>Expression</style>
-            <minDistance>0.5</minDistance>
             <offset x="-8.17763" y="-3.52665"/>
             <text>con calore, senza fretta</text>
             </StaffText>
@@ -7351,6 +7350,12 @@ continuare il canto</text>
         </Measure>
       <Measure>
         <voice>
+          <StaffText>
+            <placement>below</placement>
+            <minDistance>-999</minDistance>
+            <offset x="0.817988" y="3.08902"/>
+            <text>rit.</text>
+            </StaffText>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -7359,34 +7364,6 @@ continuare il canto</text>
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Spanner type="TextLine">
-            <TextLine>
-              <placement>below</placement>
-              <lineVisible>0</lineVisible>
-              <beginText>rit.  </beginText>
-              <beginTextAlign>left,baseline</beginTextAlign>
-              <beginTextPlace>auto</beginTextPlace>
-              <beginFontStyle>2</beginFontStyle>
-              <continueText>(rit.)  </continueText>
-              <continueTextAlign>left,baseline</continueTextAlign>
-              <continueFontStyle>2</continueFontStyle>
-              <diagonal>1</diagonal>
-              <lineWidth>0.12</lineWidth>
-              <lineStyle>6</lineStyle>
-              <dashGapLength>20</dashGapLength>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="3.39371"/>
-                <off2 x="0" y="0"/>
-                </Segment>
-              </TextLine>
-            <next>
-              <location>
-                <measures>1</measures>
-                <fractions>-1/4</fractions>
-                </location>
-              </next>
-            </Spanner>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -7443,14 +7420,6 @@ continuare il canto</text>
             <velocity>33</velocity>
             <dynType>2</dynType>
             </Dynamic>
-          <Spanner type="TextLine">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                <fractions>1/4</fractions>
-                </location>
-              </prev>
-            </Spanner>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -8541,6 +8510,13 @@ continuare il canto</text>
               </Note>
             </Chord>
           <Spanner type="HairPin">
+            <prev>
+              <location>
+                <fractions>-1/2</fractions>
+                </location>
+              </prev>
+            </Spanner>
+          <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
               <veloChange>10</veloChange>
@@ -8552,13 +8528,6 @@ continuare il canto</text>
                 <fractions>-1/2</fractions>
                 </location>
               </next>
-            </Spanner>
-          <Spanner type="HairPin">
-            <prev>
-              <location>
-                <fractions>-1/2</fractions>
-                </location>
-              </prev>
             </Spanner>
           <Chord>
             <durationType>eighth</durationType>
@@ -8618,14 +8587,6 @@ continuare il canto</text>
       <Measure>
         <voice>
           <Spanner type="HairPin">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                <fractions>1/2</fractions>
-                </location>
-              </prev>
-            </Spanner>
-          <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
               <veloChange>10</veloChange>
@@ -8642,6 +8603,14 @@ continuare il canto</text>
                 <fractions>1/2</fractions>
                 </location>
               </next>
+            </Spanner>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                <fractions>1/2</fractions>
+                </location>
+              </prev>
             </Spanner>
           <Chord>
             <durationType>quarter</durationType>

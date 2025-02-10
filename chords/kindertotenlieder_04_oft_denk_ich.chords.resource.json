@@ -182,15 +182,7 @@
         "type": "string"
       },
       {
-        "name": "TextLine",
-        "type": "string"
-      },
-      {
-        "name": "TextLine_rit.  ",
-        "type": "string"
-      },
-      {
-        "name": "Ottava:8va",
+        "name": "crescendo_line",
         "type": "string"
       },
       {
@@ -198,17 +190,17 @@
         "type": "string"
       },
       {
-        "name": "crescendo_line",
+        "name": "crescendo_hairpin",
         "type": "string"
       },
       {
-        "name": "crescendo_hairpin",
+        "name": "Ottava:8va",
         "type": "string"
       }
     ],
     "facet": "chords",
-    "identifier": "T01nD3R-n2IgIw",
-    "filepath": "chords/T01nD3R-n2IgIw.schema.yaml",
+    "identifier": "2NDS2mniGNtUUg",
+    "filepath": "chords/2NDS2mniGNtUUg.schema.yaml",
     "used_in": "kindertotenlieder_04_oft_denk_ich"
   },
   "creator": {
@@ -222,7 +214,5 @@
       "@id": "https://orcid.org/0000-0002-1986-9545"
     },
     "softwareVersion": "2.5.3"
-  },
-  "git_revision": "6798050ab908cc33283176de493cc3c3f7f3c828",
-  "git_tag": "v2.2"
+  }
 }

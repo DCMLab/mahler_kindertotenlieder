@@ -1,5 +1,0 @@
-Warnings encountered during the last execution of ms3 review
-============================================================
-
-COMPETING_MEASURE_INFO_WARNING (9, 'mc', 39, 'vspacerFixed') ms3.Parse.mahler_kindertotenlieder.kindertotenlieder_01_nun_will_die_sonn
-	mc 39: The missing value in 'vspacerFixed' was filled with '7.28082', present in 'staff' [2]. In rare cases, this may lead to incorrect values in the measures table because it ambiguous which staff contains the relevant information.
