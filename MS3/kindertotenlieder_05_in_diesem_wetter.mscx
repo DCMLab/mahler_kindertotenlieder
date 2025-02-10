@@ -4613,7 +4613,6 @@
             </Rest>
           <StaffText>
             <style>Expression</style>
-            <minDistance>0.5</minDistance>
             <offset x="-0.799714" y="-7.22562"/>
             <text>Lento, à la berceuse</text>
             </StaffText>
@@ -24822,7 +24821,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(b9)</name>
+            <name>V(+b974)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
