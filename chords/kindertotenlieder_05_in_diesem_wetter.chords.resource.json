@@ -186,6 +186,18 @@
         "type": "string"
       },
       {
+        "name": "crescendo_hairpin",
+        "type": "string"
+      },
+      {
+        "name": "decrescendo_hairpin",
+        "type": "string"
+      },
+      {
+        "name": "crescendo_line",
+        "type": "string"
+      },
+      {
         "name": "Ottava:8va",
         "type": "string"
       },
@@ -202,23 +214,11 @@
       {
         "name": "Pedal_<sym>keyboardPedalPed</sym>",
         "type": "string"
-      },
-      {
-        "name": "crescendo_hairpin",
-        "type": "string"
-      },
-      {
-        "name": "decrescendo_hairpin",
-        "type": "string"
-      },
-      {
-        "name": "crescendo_line",
-        "type": "string"
       }
     ],
     "facet": "chords",
-    "identifier": "ED-q4TW2Eb6d0g",
-    "filepath": "chords/ED-q4TW2Eb6d0g.schema.yaml",
+    "identifier": "qcf1vQnru6z8jQ",
+    "filepath": "chords/qcf1vQnru6z8jQ.schema.yaml",
     "used_in": "kindertotenlieder_05_in_diesem_wetter"
   },
   "creator": {
