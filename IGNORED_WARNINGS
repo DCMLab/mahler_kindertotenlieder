@@ -7,3 +7,6 @@ DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 71, '1/2', 'ii%65') ms3.Parse.
 
 DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 37, '1', 'Ger6/IV') ms3.Parse.mahler_kindertotenlieder.kindertotenlieder_02_nun_seh_ich_wohl
 	The label 'Ger6/IV' in m. 37, onset 1 (MC 37, onset 1) is correct 
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 9, '1/2', 'i') ms3.Parse.mahler_kindertotenlieder.kindertotenlieder_05_in_diesem_wetter
+	The label 'i' in m. 9, onset 1/2 (MC 9, onset 1/2) is appropriate when viewing beats 3 and 4 together in big picture
