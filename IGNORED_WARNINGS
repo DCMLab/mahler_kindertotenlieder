@@ -1,3 +1,18 @@
+COMPETING_MEASURE_INFO_WARNING (9, 'mc', 39, 'vspacerFixed') ms3.Parse.mahler_kindertotenlieder.kindertotenlieder_01_nun_will_die_sonn
+	mc 39: The missing value in 'vspacerFixed' was filled with '7.28082', present in 'staff' [2]. In rare cases, this may lead to incorrect values in the measures table because it ambiguous which staff contains the relevant information.
+
+COMPETING_MEASURE_INFO_WARNING (9, 'mc', 42, 'vspacerFixed') ms3.Parse.mahler_kindertotenlieder.kindertotenlieder_02_nun_seh_ich_wohl
+	mc 42: The missing value in 'vspacerFixed' was filled with '5.78307', present in 'staff' [2]. In rare cases, this may lead to incorrect values in the measures table because it ambiguous which staff contains the relevant information.
+
+COMPETING_MEASURE_INFO_WARNING (9, 'mc', 66, 'vspacerFixed') ms3.Parse.mahler_kindertotenlieder.kindertotenlieder_02_nun_seh_ich_wohl
+	mc 66: The missing value in 'vspacerFixed' was filled with '8.18246', present in 'staff' [2]. In rare cases, this may lead to incorrect values in the measures table because it ambiguous which staff contains the relevant information.
+
+COMPETING_MEASURE_INFO_WARNING (9, 'mc', 51, 'voice/BarLine/autoplace') ms3.Parse.mahler_kindertotenlieder.kindertotenlieder_03_wenn_dein_mutterlein
+	mc 51: The missing value in 'voice/BarLine/autoplace' was filled with '0', present in 'staff' [2]. In rare cases, this may lead to incorrect values in the measures table because it ambiguous which staff contains the relevant information.
+
+COMPETING_MEASURE_INFO_WARNING (9, 'mc', 51, 'voice/BarLine/spanToOffset') ms3.Parse.mahler_kindertotenlieder.kindertotenlieder_03_wenn_dein_mutterlein
+	mc 51: The missing value in 'voice/BarLine/spanToOffset' was filled with '7', present in 'staff' [2]. In rare cases, this may lead to incorrect values in the measures table because it ambiguous which staff contains the relevant information.
+
 DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 51, '1/4', 'ii%7') ms3.Parse.mahler_kindertotenlieder.kindertotenlieder_01_nun_will_die_sonn
 	The label 'ii%7' in m. 50, onset 1/4 (MC 51, onset 1/4) is consistent with previous labellings by the annotator and this passage is ambiguous harmonically
     because there are only 2 voices which could imply more than one harmonic representation.
