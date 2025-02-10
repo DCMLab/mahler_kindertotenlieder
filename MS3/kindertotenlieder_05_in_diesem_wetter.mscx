@@ -28636,7 +28636,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio7/vi</name>
+            <name>#viio7/vi</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
