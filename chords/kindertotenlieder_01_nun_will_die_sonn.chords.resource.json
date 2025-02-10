@@ -182,6 +182,10 @@
         "type": "string"
       },
       {
+        "name": "crescendo_hairpin",
+        "type": "string"
+      },
+      {
         "name": "diminuendo_line",
         "type": "string"
       },
@@ -190,17 +194,13 @@
         "type": "string"
       },
       {
-        "name": "crescendo_hairpin",
-        "type": "string"
-      },
-      {
         "name": "decrescendo_hairpin",
         "type": "string"
       }
     ],
     "facet": "chords",
-    "identifier": "EGVsXeGv-R6WuA",
-    "filepath": "chords/EGVsXeGv-R6WuA.schema.yaml",
+    "identifier": "l0Gv-Hq7kSGzqg",
+    "filepath": "chords/l0Gv-Hq7kSGzqg.schema.yaml",
     "used_in": "kindertotenlieder_01_nun_will_die_sonn"
   },
   "creator": {
@@ -214,5 +214,7 @@
       "@id": "https://orcid.org/0000-0002-1986-9545"
     },
     "softwareVersion": "2.5.3"
-  }
+  },
+  "git_revision": "d335c973844daf5392b51e132395108449dc9cba",
+  "git_tag": "v2.2-39-gd335c97"
 }

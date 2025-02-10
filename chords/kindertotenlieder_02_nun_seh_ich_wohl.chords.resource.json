@@ -176,6 +176,14 @@
         "type": "string"
       },
       {
+        "name": "crescendo_hairpin",
+        "type": "string"
+      },
+      {
+        "name": "decrescendo_hairpin",
+        "type": "string"
+      },
+      {
         "name": "pedal",
         "title": "Pedal Point",
         "description": "Specified as Roman numeral.",
@@ -184,19 +192,11 @@
       {
         "name": "Pedal_<sym>keyboardPedalPed</sym>",
         "type": "string"
-      },
-      {
-        "name": "crescendo_hairpin",
-        "type": "string"
-      },
-      {
-        "name": "decrescendo_hairpin",
-        "type": "string"
       }
     ],
     "facet": "chords",
-    "identifier": "NsRaUriXgRSTGQ",
-    "filepath": "chords/NsRaUriXgRSTGQ.schema.yaml",
+    "identifier": "FD90MNdtvFA1YA",
+    "filepath": "chords/FD90MNdtvFA1YA.schema.yaml",
     "used_in": "kindertotenlieder_02_nun_seh_ich_wohl"
   },
   "creator": {
@@ -210,5 +210,7 @@
       "@id": "https://orcid.org/0000-0002-1986-9545"
     },
     "softwareVersion": "2.5.3"
-  }
+  },
+  "git_revision": "d335c973844daf5392b51e132395108449dc9cba",
+  "git_tag": "v2.2-39-gd335c97"
 }

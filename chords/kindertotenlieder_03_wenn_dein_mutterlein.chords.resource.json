@@ -176,7 +176,7 @@
         "type": "string"
       },
       {
-        "name": "crescendo_line",
+        "name": "crescendo_hairpin",
         "type": "string"
       },
       {
@@ -184,17 +184,17 @@
         "type": "string"
       },
       {
-        "name": "crescendo_hairpin",
+        "name": "decrescendo_hairpin",
         "type": "string"
       },
       {
-        "name": "decrescendo_hairpin",
+        "name": "crescendo_line",
         "type": "string"
       }
     ],
     "facet": "chords",
-    "identifier": "2XEY0zOnOIcIgw",
-    "filepath": "chords/2XEY0zOnOIcIgw.schema.yaml",
+    "identifier": "pTgIYLK3awLdzA",
+    "filepath": "chords/pTgIYLK3awLdzA.schema.yaml",
     "used_in": "kindertotenlieder_03_wenn_dein_mutterlein"
   },
   "creator": {
@@ -208,5 +208,7 @@
       "@id": "https://orcid.org/0000-0002-1986-9545"
     },
     "softwareVersion": "2.5.3"
-  }
+  },
+  "git_revision": "d335c973844daf5392b51e132395108449dc9cba",
+  "git_tag": "v2.2-39-gd335c97"
 }

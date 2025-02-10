@@ -186,11 +186,23 @@
         "type": "string"
       },
       {
+        "name": "Ottava:8va",
+        "type": "string"
+      },
+      {
         "name": "Ottava:8vb",
         "type": "string"
       },
       {
-        "name": "Ottava:8va",
+        "name": "crescendo_hairpin",
+        "type": "string"
+      },
+      {
+        "name": "decrescendo_hairpin",
+        "type": "string"
+      },
+      {
+        "name": "crescendo_line",
         "type": "string"
       },
       {
@@ -202,23 +214,11 @@
       {
         "name": "Pedal_<sym>keyboardPedalPed</sym>",
         "type": "string"
-      },
-      {
-        "name": "crescendo_line",
-        "type": "string"
-      },
-      {
-        "name": "decrescendo_hairpin",
-        "type": "string"
-      },
-      {
-        "name": "crescendo_hairpin",
-        "type": "string"
       }
     ],
     "facet": "chords",
-    "identifier": "Fv201E2MPMb66A",
-    "filepath": "chords/Fv201E2MPMb66A.schema.yaml",
+    "identifier": "Zobwmhtrp0a3wA",
+    "filepath": "chords/Zobwmhtrp0a3wA.schema.yaml",
     "used_in": "kindertotenlieder_05_in_diesem_wetter"
   },
   "creator": {
@@ -232,5 +232,7 @@
       "@id": "https://orcid.org/0000-0002-1986-9545"
     },
     "softwareVersion": "2.5.3"
-  }
+  },
+  "git_revision": "d335c973844daf5392b51e132395108449dc9cba",
+  "git_tag": "v2.2-39-gd335c97"
 }
