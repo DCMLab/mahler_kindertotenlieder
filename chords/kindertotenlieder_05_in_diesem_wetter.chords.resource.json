@@ -186,11 +186,11 @@
         "type": "string"
       },
       {
-        "name": "Ottava:8vb",
+        "name": "Ottava:8va",
         "type": "string"
       },
       {
-        "name": "Ottava:8va",
+        "name": "Ottava:8vb",
         "type": "string"
       },
       {
@@ -204,21 +204,21 @@
         "type": "string"
       },
       {
+        "name": "crescendo_hairpin",
+        "type": "string"
+      },
+      {
         "name": "decrescendo_hairpin",
         "type": "string"
       },
       {
         "name": "crescendo_line",
         "type": "string"
-      },
-      {
-        "name": "crescendo_hairpin",
-        "type": "string"
       }
     ],
     "facet": "chords",
-    "identifier": "kgVJkm93iCwKgQ",
-    "filepath": "chords/kgVJkm93iCwKgQ.schema.yaml",
+    "identifier": "ED-q4TW2Eb6d0g",
+    "filepath": "chords/ED-q4TW2Eb6d0g.schema.yaml",
     "used_in": "kindertotenlieder_05_in_diesem_wetter"
   },
   "creator": {
@@ -232,7 +232,5 @@
       "@id": "https://orcid.org/0000-0002-1986-9545"
     },
     "softwareVersion": "2.5.3"
-  },
-  "git_revision": "6798050ab908cc33283176de493cc3c3f7f3c828",
-  "git_tag": "v2.2"
+  }
 }
