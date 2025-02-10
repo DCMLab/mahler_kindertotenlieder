@@ -17,3 +17,8 @@ DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 48, '0', 'i64') ms3.Parse.mahl
 DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 83, '0', 'VII') ms3.Parse.mahler_kindertotenlieder.kindertotenlieder_05_in_diesem_wetter
 	The label 'VII' in m. 83, onset 0 (MC 83, onset 0) is plausible as it contains the notes C E G over the tonic pedal.
 
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 85, '0', 'i]') ms3.Parse.mahler_kindertotenlieder.kindertotenlieder_05_in_diesem_wetter
+	The label 'i]' in m. 85, onset 0 (MC 85, onset 0) is the ending of the tonic pedal series and the notes on top are passing tones.
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 123, '0', 'ii') ms3.Parse.mahler_kindertotenlieder.kindertotenlieder_05_in_diesem_wetter
+	The label 'ii' in m. 123, onset 0 (MC 123, onset 0) is over the tonic pedal and is a substitute for V.
