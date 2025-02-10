@@ -25467,16 +25467,6 @@
             <harmonyType>1</harmonyType>
             <name>VII6</name>
             </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i64</name>
-            <offset x="17.7794" y="6.8001"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V65</name>
-            <offset x="26.6691" y="7.09975"/>
-            </Harmony>
           <Spanner type="Ottava">
             <Ottava>
               <subtype>8vb</subtype>
@@ -25503,6 +25493,20 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/2</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i64</name>
+            </Harmony>
+          <location>
+            <fractions>1/4</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V65</name>
+            </Harmony>
           </voice>
         </Measure>
       <Measure>
