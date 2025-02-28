@@ -6548,6 +6548,7 @@ heftiger</text>
                   <o2 x="0.453905" y="3.78254"/>
                   <o3 x="0.453905" y="3.78254"/>
                   <o4 x="0" y="3.47994"/>
+                  <offset x="0" y="-0.613491"/>
                   </SlurSegment>
                 <up>up</up>
                 </Slur>
@@ -12713,16 +12714,10 @@ sehr ausdrucksvoll</text>
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%7</name>
+            <name>i6</name>
             </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -12816,7 +12811,7 @@ sehr ausdrucksvoll</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%(4)</name>
+            <name>ii%65(4)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -12827,7 +12822,7 @@ sehr ausdrucksvoll</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%(65)</name>
+            <name>ii%65</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -13471,6 +13466,10 @@ sehr ausdrucksvoll</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i(9)</name>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -13483,6 +13482,21 @@ sehr ausdrucksvoll</text>
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/2</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            <offset x="0.102249" y="6.36296"/>
+            </Harmony>
+          <location>
+            <fractions>1/2</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V7/V</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Stem>
@@ -13504,10 +13518,6 @@ sehr ausdrucksvoll</text>
             </Rest>
           </voice>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i(9)</name>
-            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -13520,10 +13530,6 @@ sehr ausdrucksvoll</text>
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7/V</name>
-            </Harmony>
           <Chord>
             <offset x="0.389714" y="0"/>
             <durationType>quarter</durationType>
@@ -13557,11 +13563,6 @@ sehr ausdrucksvoll</text>
             <offset x="0.389714" y="5.456"/>
             <durationType>eighth</durationType>
             </Rest>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            <offset x="3.06655" y="6.20394"/>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
@@ -13609,6 +13610,10 @@ sehr ausdrucksvoll</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V7(#6)/IV</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>down</StemDirection>
@@ -13659,6 +13664,16 @@ sehr ausdrucksvoll</text>
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/4</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv/iv</name>
+            </Harmony>
+          <location>
+            <fractions>1/4</fractions>
+            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>IV</name>
@@ -13719,19 +13734,6 @@ sehr ausdrucksvoll</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iv</name>
-            </Harmony>
-          </voice>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V</name>
-            </Harmony>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iv/iv</name>
             </Harmony>
           </voice>
         </Measure>
@@ -14659,7 +14661,8 @@ sehr ausdrucksvoll</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(6b5)</name>
+            <name>V65(4)/VI</name>
+            <offset x="-0.204497" y="7.23241"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -15444,7 +15447,7 @@ sehr ausdrucksvoll</text>
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v</name>
+            <name>v(b5#2)</name>
             <offset x="14.3341" y="3.44671"/>
             </Harmony>
           <Chord>

@@ -186,17 +186,11 @@
         "type": "string"
       },
       {
-        "name": "pedal",
-        "title": "Pedal Point",
-        "description": "Specified as Roman numeral.",
+        "name": "Ottava:8va",
         "type": "string"
       },
       {
-        "name": "Pedal_<sym>keyboardPedalPed</sym>",
-        "type": "string"
-      },
-      {
-        "name": "crescendo_line",
+        "name": "Ottava:8vb",
         "type": "string"
       },
       {
@@ -208,17 +202,23 @@
         "type": "string"
       },
       {
-        "name": "Ottava:8vb",
+        "name": "crescendo_line",
         "type": "string"
       },
       {
-        "name": "Ottava:8va",
+        "name": "pedal",
+        "title": "Pedal Point",
+        "description": "Specified as Roman numeral.",
+        "type": "string"
+      },
+      {
+        "name": "Pedal_<sym>keyboardPedalPed</sym>",
         "type": "string"
       }
     ],
     "facet": "chords",
-    "identifier": "aBFk1rogSqmCMg",
-    "filepath": "chords/aBFk1rogSqmCMg.schema.yaml",
+    "identifier": "Zobwmhtrp0a3wA",
+    "filepath": "chords/Zobwmhtrp0a3wA.schema.yaml",
     "used_in": "kindertotenlieder_05_in_diesem_wetter"
   },
   "creator": {
@@ -231,8 +231,8 @@
       "name": "Johannes Hentschel",
       "@id": "https://orcid.org/0000-0002-1986-9545"
     },
-    "softwareVersion": "2.4.1"
+    "softwareVersion": "2.5.3"
   },
-  "git_revision": "f4bdd0b5519c47999fcba5ed980fb2b36635625a",
-  "git_tag": "v2.1-5-gf4bdd0b"
+  "git_revision": "d335c973844daf5392b51e132395108449dc9cba",
+  "git_tag": "v2.2-39-gd335c97"
 }

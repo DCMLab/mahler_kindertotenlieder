@@ -4613,7 +4613,6 @@
             </Rest>
           <StaffText>
             <style>Expression</style>
-            <minDistance>0.5</minDistance>
             <offset x="-0.799714" y="-7.22562"/>
             <text>Lento, à la berceuse</text>
             </StaffText>
@@ -24822,7 +24821,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(b9)</name>
+            <name>V(+b974)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -25468,16 +25467,6 @@
             <harmonyType>1</harmonyType>
             <name>VII6</name>
             </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i64</name>
-            <offset x="17.7794" y="6.8001"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V65</name>
-            <offset x="26.6691" y="7.09975"/>
-            </Harmony>
           <Spanner type="Ottava">
             <Ottava>
               <subtype>8vb</subtype>
@@ -25504,6 +25493,20 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/2</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i64</name>
+            </Harmony>
+          <location>
+            <fractions>1/4</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V65</name>
+            </Harmony>
           </voice>
         </Measure>
       <Measure>
@@ -25554,7 +25557,7 @@
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio7</name>
+            <name>#viio7</name>
             </Harmony>
           <Spanner type="Ottava">
             <Ottava>
@@ -25925,7 +25928,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/VII</name>
+            <name>#viio7</name>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
@@ -25980,7 +25983,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>iio</name>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
@@ -26113,7 +26116,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>#viio(^9)/iv</name>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
@@ -27588,7 +27591,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV6</name>
+            <name>IV6(9#4b3)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -27754,7 +27757,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV6</name>
+            <name>IV6(9#87)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -28637,7 +28640,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio7/vi</name>
+            <name>#viio7/vi</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -28995,7 +28998,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV</name>
+            <name>ii</name>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>

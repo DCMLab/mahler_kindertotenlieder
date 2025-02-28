@@ -10677,7 +10677,7 @@ fliessend</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV6</name>
+            <name>IV6/III</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -12277,7 +12277,7 @@ fliessend</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V[V64</name>
+            <name>V[I64</name>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
@@ -13653,7 +13653,7 @@ fliessend</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/bII</name>
+            <name>V7/VI</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -13680,7 +13680,7 @@ fliessend</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2/bII</name>
+            <name>V2/VI</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -13718,7 +13718,7 @@ fliessend</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bII+6</name>
+            <name>V7(b6)/III</name>
             </Harmony>
           <Beam>
             <Fragment>
@@ -13956,7 +13956,7 @@ fliessend</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI/VI</name>
+            <name>vi7/i</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
