@@ -24,6 +24,20 @@ non-standard contrapuntal patterns within single harmonies as well as in prolong
 In expanding the possibilities of chromatic elaboration and free organization of functional harmonies, these phenomena
 illustrate a connection between 19th- and 20th-century styles represented elsewhere in the Distant Listening Corpus.
 
+## Version history
+
+See the [GitHub releases](https://github.com/DCMLab/mahler_kindertotenlieder/releases).
+
+## Questions, Suggestions, Corrections, Bug Reports
+
+Please [create an issue](https://github.com/DCMLab/mahler_kindertotenlieder/issues) and/or feel free to fork and submit pull requests.
+
+## License
+
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)).
+
+![cc-by-nc-sa-image](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)
+
 ## Scores
 
 These piano scores were downloaded from the wonderful [OpenScore Lieder](https://musescore.com/user/27638568/sets/5051725) project. They correspond to the ca.1911 Universal Edition printing of the vocal score. Staff spacing, paginations, and margins were modified to improve the readability of the annotations. 
