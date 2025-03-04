@@ -33,16 +33,16 @@ To reproduce: frictionless validate kindertotenlieder_01_nun_will_die_sonn.chord
             'metronome_number',
             'tempo_visible',
             'slur',
+            'decrescendo_hairpin',
             'crescendo_hairpin',
             'diminuendo_line',
-            'HairPin:3_dim.',
-            'decrescendo_hairpin'],
+            'HairPin:3_dim.'],
  'stats': {'errors': 1,
            'warnings': 0,
-           'seconds': 0.128,
-           'md5': 'c8048bdc02ba51a2d28c22dfa03a9234',
-           'sha256': '044292de833609274ee607b87e977cf2c5b8a9008a900e07b604b91ae495f025',
-           'bytes': 83117,
+           'seconds': 0.041,
+           'md5': 'c4a4c083a2088d9e41cd9c95ca7d4fa7',
+           'sha256': 'bb5fcfeb3fcdc76182ee86c3217323b5f8e68fd4eab55f6c85e3c253af00f598',
+           'bytes': 82005,
            'fields': 32,
            'rows': 1111},
  'warnings': [],
@@ -51,7 +51,7 @@ To reproduce: frictionless validate kindertotenlieder_01_nun_will_die_sonn.chord
              'description': 'One of the data source header does not match the '
                             'field name defined in the schema.',
              'message': 'Label "HairPin:3_dim." in field HairPin:3_dim.   at '
-                        'position "31" does not match the field name in the '
+                        'position "32" does not match the field name in the '
                         'schema',
              'tags': ['#table', '#header', '#label'],
              'note': '',
@@ -83,11 +83,11 @@ To reproduce: frictionless validate kindertotenlieder_01_nun_will_die_sonn.chord
                         'metronome_number',
                         'tempo_visible',
                         'slur',
+                        'decrescendo_hairpin',
                         'crescendo_hairpin',
                         'diminuendo_line',
-                        'HairPin:3_dim.',
-                        'decrescendo_hairpin'],
+                        'HairPin:3_dim.'],
              'rowNumbers': [1],
              'label': 'HairPin:3_dim.',
              'fieldName': 'HairPin:3_dim.  ',
-             'fieldNumber': 31}]}
+             'fieldNumber': 32}]}

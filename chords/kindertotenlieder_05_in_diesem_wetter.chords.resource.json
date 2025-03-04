@@ -30,7 +30,7 @@
       },
       {
         "name": "quarterbeats",
-        "title": "Offset from Beginning",
+        "title": "Offset from Beginning (leaving out alternative endings)",
         "description": "Distance of an event from the piece's beginning. By default, only second endings are taken into account to reflect the proportions of a simply playthrough without repeats.",
         "type": "string",
         "constraints": {
@@ -39,7 +39,7 @@
       },
       {
         "name": "quarterbeats_all_endings",
-        "title": "Offset from Beginning (Including Endings)",
+        "title": "Offset from Beginning (counting through alternative endings as if they were adjacent bars)",
         "description": "Distance from the piece's beginning, taking all endings into account for addressability purposes.",
         "type": "string",
         "constraints": {
@@ -186,23 +186,15 @@
         "type": "string"
       },
       {
-        "name": "Ottava:8va",
-        "type": "string"
-      },
-      {
-        "name": "Ottava:8vb",
-        "type": "string"
-      },
-      {
-        "name": "crescendo_hairpin",
-        "type": "string"
-      },
-      {
         "name": "decrescendo_hairpin",
         "type": "string"
       },
       {
         "name": "crescendo_line",
+        "type": "string"
+      },
+      {
+        "name": "crescendo_hairpin",
         "type": "string"
       },
       {
@@ -214,11 +206,19 @@
       {
         "name": "Pedal_<sym>keyboardPedalPed</sym>",
         "type": "string"
+      },
+      {
+        "name": "Ottava:8va",
+        "type": "string"
+      },
+      {
+        "name": "Ottava:8vb",
+        "type": "string"
       }
     ],
     "facet": "chords",
-    "identifier": "Zobwmhtrp0a3wA",
-    "filepath": "chords/Zobwmhtrp0a3wA.schema.yaml",
+    "identifier": "W3c38q8icDRsPA",
+    "filepath": "chords/W3c38q8icDRsPA.schema.yaml",
     "used_in": "kindertotenlieder_05_in_diesem_wetter"
   },
   "creator": {
@@ -231,8 +231,8 @@
       "name": "Johannes Hentschel",
       "@id": "https://orcid.org/0000-0002-1986-9545"
     },
-    "softwareVersion": "2.5.3"
+    "softwareVersion": "2.5.4"
   },
-  "git_revision": "d335c973844daf5392b51e132395108449dc9cba",
-  "git_tag": "v2.2-39-gd335c97"
+  "git_revision": "c9b9955fc99e3fda39ec2f025cd29e286902f7b3",
+  "git_tag": "v3.0"
 }
