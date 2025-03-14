@@ -1,5 +1,5 @@
 ![Version](https://img.shields.io/github/v/release/DCMLab/mahler_kindertotenlieder?display_name=tag)
-[![DOI](https://zenodo.org/badge/{{ zenodo_badge_id }}.svg)](https://doi.org/{{ concept_doi }})
+[![DOI](https://zenodo.org/badge/465759388.svg)](https://doi.org/10.5281/zenodo.14997022)
 ![GitHub repo size](https://img.shields.io/github/repo-size/DCMLab/mahler_kindertotenlieder)
 ![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-9cf)
 
@@ -89,7 +89,7 @@ Please [create an issue](https://github.com/DCMLab/mahler_kindertotenlieder/issu
 
 ## Cite as
 
-> Johannes Hentschel, Yannis Rammos, Markus Neuwirth, & Martin Rohrmeier. (2025). Gustav Mahler – Kindertotenlieder (A corpus of annotated scores) [Data set]. Zenodo. https://doi.org/{{ concept_doi }}
+> Johannes Hentschel, Yannis Rammos, Markus Neuwirth, & Martin Rohrmeier. (2025). Gustav Mahler – Kindertotenlieder (A corpus of annotated scores) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.14997022
 
 ## License
 
